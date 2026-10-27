@@ -1,0 +1,780 @@
+# Batavia's Best: all-time records
+
+Yahoo Fantasy Football, 2005 to 2026 (no 2012 league on Yahoo). 20 complete seasons plus 2026 through week 7.
+
+## How things are counted
+
+- Career W-L, PF, PA, all-play, luck and streaks use regular-season games only.
+- Playoff W-L counts bracket games (quarterfinal, semifinal, final); consolation games are not counted.
+- Head-to-head and rivalries count regular-season and playoff games.
+- Single-game records use every game, labeled by type.
+- The season in progress counts through its last final week; it is left out of season awards (titles, finishes, best and worst seasons, PF rank vs finish, droughts).
+- Teams whose manager is unknown still count as opponents and in single-game records, but are credited to no one.
+- A tie counts as half a win in win %.
+- "Last place" is Yahoo's final rank after consolation games. "Worst record" is the fewest regular-season wins (points for breaks ties), which can be a different team.
+
+- **Unknown managers:** 27 team-seasons from 2005-2010 have no confirmed manager yet. Their games count as opponents and in single-game records but are credited to no one, so career totals for long-time managers may be short for those years.
+- **Scoring changed over time:** 2005-2009 scored no points for receptions and averaged 83-110 points a game. Half-PPR began in 2010 and recent seasons average about 110-120, so the lowest scores mostly come from early seasons. See "Scoring by season" below.
+- Everything here comes from the league's own Yahoo pages.
+
+## Champions
+
+| Season | Champion | Team | Record | Seed | Runner-up | 3rd | Last (Yahoo final rank) |
+|---|---|---|---|---|---|---|---|
+| 2025 | Brad C. | Brad’s son’s dad’s team | 10-4 | 1 | Robert H. | Erik P. | Pat F. |
+| 2024 | Michael M. | Roger | 10-4 | 2 | Brad C. | Erik P. | Matty M. |
+| 2023 | Michael M. | Roger | 9-5 | 1 | Pat F. | Brad C. | Robert H. |
+| 2022 | Erik P. | Mel's Meat Curtains | 7-7 | 4 | Chris H. | Matty M. | Ben H. |
+| 2021 | Marcus H. | Gert B Frobe | 11-3 | 1 | Robert H. | Michael M. | Matty M. |
+| 2020 | Chris H. | Richard is Dead | 8-5 | 4 | Erik P. | Pat F. | Marcus H. |
+| 2019 | Erik P. | Mel's Meat Curtains | 7-6 | 5 | Michael M. | Chris H. | Mark T. |
+| 2018 | Michael M. | Tea Kittle | 11-2 | 1 | Brad C. | Marcus H. | Pat F. |
+| 2017 | Erik P. | Mel's Meat Curtains | 9-4 | 1 | Matty M. | Marcus H. | Brad C. |
+| 2016 | Marcus H. | Gert B Frobe | 7-6 | 5 | Erik P. | Brad C. | Matty M. |
+| 2015 | Mark T. | Bud Kilmer | 7-6 | 6 | Michael M. | Alex B. | Erik P. |
+| 2014 | Alex B. | Lynching | 9-4 | 1 | Ben H. | Mark T. | Robert H. |
+| 2013 | Ben H. | The Sheriff | 9-4 | 2 | Matty M. | Erik P. | Chris H. |
+| 2011 | Marcus H. | Gert B Frobe | 10-4 | 3 | Chris H. | Mike L. | Matty M. |
+| 2010 | Mike L. | Summit St. Filth | 9-5 | 3 | Chris H. | Marcus H. | Robert H. |
+| 2009 | Brad C. | the aryan race | 10-4 | 1 | Unknown manager | Ben H. | Matty M. |
+| 2008 | Mark T. | Th3 CuB3 | 8-6 | 4 | Chris H. | Kevin F. | Mike L. |
+| 2007 | Brad C. | the aryan race | 8-7 | 4 | Chris H. | Matty M. | Marcus H. |
+| 2006 | Robert H. | Big Bob | 10-5 | 3 | Erik P. | Kevin F. | Unknown manager |
+| 2005 | Robert H. | blue devils | 9-5 | 1 | Mike L. | Unknown manager | Mark T. |
+
+## All-time standings
+
+Regular season. Ties count as half a win. Playoff record counts bracket games only.
+
+| Manager | Seasons | Record | Win % | PF | PA | PF/gm | Playoff W-L | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Michael M. | 16 | 127-82 | .608 | 24,489.68 | 22,744.32 | 117.18 | 12-9 | 12 | 3 | 2 | 1 | 0 | 0 |
+| Brad C. | 19 | 139-113 | .552 | 27,674.7 | 26,831.18 | 109.82 | 10-9 | 12 | 3 | 2 | 2 | 1 | 1 |
+| Erik P. | 18 | 121-118 | .506 | 26,888.82 | 26,349.6 | 112.51 | 15-9 | 12 | 3 | 3 | 3 | 1 | 0 |
+| Marcus H. | 19 | 127-126 | .502 | 27,389.12 | 27,427.44 | 108.26 | 8-6 | 9 | 3 | 0 | 3 | 2 | 3 |
+| Robert H. | 21 | 133-148 | .473 | 30,032.84 | 30,034.56 | 106.88 | 6-9 | 11 | 2 | 2 | 0 | 3 | 2 |
+| Mark T. | 18 | 98-139 | .414 | 24,360.88 | 25,618.52 | 102.79 | 5-4 | 6 | 2 | 0 | 1 | 2 | 4 |
+| Alex B. | 5 | 37-29 | .561 | 7,035.96 | 6,780.8 | 106.61 | 4-3 | 4 | 1 | 0 | 1 | 0 | 0 |
+| Chris H. | 20 | 137-130 | .513 | 29,179.72 | 29,296.92 | 109.29 | 9-8 | 9 | 1 | 5 | 1 | 1 | 2 |
+| Mike L. | 10 | 65-73 | .471 | 13,970.04 | 14,221.3 | 101.23 | 3-2 | 3 | 1 | 1 | 1 | 1 | 1 |
+| Ben H. | 17 | 103-120-1 | .462 | 23,906.02 | 24,456.18 | 106.72 | 6-5 | 6 | 1 | 1 | 1 | 1 | 1 |
+| Kevin F. | 3 | 26-18 | .591 | 4,814.5 | 4,482.5 | 109.42 | 0-2 | 2 | 0 | 0 | 2 | 0 | 0 |
+| Matty M. | 18 | 121-117 | .508 | 25,726.72 | 26,085.94 | 108.1 | 3-7 | 7 | 0 | 2 | 2 | 5 | 3 |
+| Pat F. | 15 | 96-99 | .492 | 21,326.22 | 21,603.46 | 109.37 | 4-7 | 7 | 0 | 1 | 1 | 2 | 2 |
+
+## Titles
+
+### Repeat champions
+
+| Manager | Titles | Seasons | Back to back |
+|---|---|---|---|
+| Brad C. | 3 | 2007, 2009, 2025 |  |
+| Marcus H. | 3 | 2011, 2016, 2021 |  |
+| Erik P. | 3 | 2017, 2019, 2022 |  |
+| Michael M. | 3 | 2018, 2023, 2024 | 2023-2024 |
+| Robert H. | 2 | 2005, 2006 | 2005-2006 |
+| Mark T. | 2 | 2008, 2015 |  |
+
+### Title droughts
+
+Completed seasons played since the last title (or since joining), through 2025.
+
+| Manager | Titles | Last title | Current drought | Longest drought | Known seasons |
+|---|---|---|---|---|---|
+| Robert H. | 2 | 2006 | 18 | 18 | 20 |
+| Matty M. | 0 | never | 17 | 17 | 17 |
+| Pat F. | 0 | never | 14 | 14 | 14 |
+| Ben H. | 1 | 2013 | 12 | 12 | 16 |
+| Mark T. | 2 | 2015 | 10 | 10 | 17 |
+| Mike L. | 1 | 2010 | 5 | 5 | 10 |
+| Chris H. | 1 | 2020 | 5 | 13 | 19 |
+| Marcus H. | 3 | 2021 | 4 | 4 | 18 |
+| Erik P. | 3 | 2022 | 3 | 8 | 17 |
+| Kevin F. | 0 | never | 3 | 3 | 3 |
+| Alex B. | 1 | 2014 | 2 | 2 | 5 |
+| Michael M. | 3 | 2024 | 1 | 7 | 15 |
+| Brad C. | 3 | 2025 | 0 | 14 | 18 |
+
+## Head-to-head
+
+Row manager's record against the column manager. Regular-season and playoff games.
+
+| vs | Alex B. | Ben H. | Brad C. | Chris H. | Erik P. | Kevin F. | Marcus H. | Mark T. | Matty M. | Michael M. | Mike L. | Pat F. | Robert H. |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Alex B. |  | 4-3 | 3-6 | 4-3 | 4-1 |  | 5-2 | 3-3 | 3-2 | 3-4 | 4-4 | 4-2 | 4-2 |
+| Ben H. | 3-4 |  | 6-17 | 14-11 | 10-15 | 0-1 | 9-16 | 13-11 | 9-11 | 7-12 | 5-2 | 13-7 | 12-13 |
+| Brad C. | 6-3 | 17-6 |  | 13-16 | 10-15 | 1-1 | 15-10 | 14-9 | 17-11 | 11-17 | 6-5 | 12-6 | 17-9 |
+| Chris H. | 3-4 | 11-14 | 16-13 |  | 10-17 | 4-1 | 12-18 | 13-11 | 17-9 | 7-14 | 5-7 | 10-11 | 18-10 |
+| Erik P. | 1-4 | 15-10 | 15-10 | 17-10 |  | 3-2 | 16-10 | 10-6 | 13-15 | 12-12 | 5-5 | 9-15 | 10-18 |
+| Kevin F. |  | 1-0 | 1-1 | 1-4 | 2-3 |  | 5-1 | 1-0 | 0-2 |  | 4-1 |  | 4-2 |
+| Marcus H. | 2-5 | 16-9 | 10-15 | 18-12 | 10-16 | 1-5 |  | 13-8 | 10-14 | 7-15 | 9-4 | 9-10 | 15-12 |
+| Mark T. | 3-3 | 11-13 | 9-14 | 11-13 | 6-10 | 0-1 | 8-13 |  | 11-14 | 6-19 | 4-5 | 11-10 | 9-16 |
+| Matty M. | 2-3 | 11-9 | 11-17 | 9-17 | 15-13 | 2-0 | 14-10 | 14-11 |  | 8-14 | 2-5 | 16-9 | 12-8 |
+| Michael M. | 4-3 | 12-7 | 17-11 | 14-7 | 12-12 |  | 15-7 | 19-6 | 14-8 |  | 4-2 | 10-13 | 15-11 |
+| Mike L. | 4-4 | 2-5 | 5-6 | 7-5 | 5-5 | 1-4 | 4-9 | 5-4 | 5-2 | 2-4 |  | 1-5 | 10-7 |
+| Pat F. | 2-4 | 7-13 | 6-12 | 11-10 | 15-9 |  | 10-9 | 10-11 | 9-16 | 13-10 | 5-1 |  | 12-11 |
+| Robert H. | 2-4 | 13-12 | 9-17 | 10-18 | 18-10 | 2-4 | 12-15 | 16-9 | 8-12 | 11-15 | 7-10 | 11-12 |  |
+
+## Single-game records
+
+Every game type counts here. "Game" says regular season, playoff or consolation.
+
+### Highest scores
+
+| Season | Week | Game | Manager | Team | Points | Opponent | Opp points | Margin |
+|---|---|---|---|---|---|---|---|---|
+| 2006 | 14 | Regular | Erik P. | TheNigs II | 196.5 | Unknown manager | 83 | 113.5 |
+| 2006 | 12 | Regular | Erik P. | TheNigs II | 191.5 | Marcus H. | 91 | 100.5 |
+| 2015 | 3 | Regular | Marcus H. | Gert B Frobe | 190.7 | Robert H. | 132.98 | 57.72 |
+| 2006 | 11 | Regular | Kevin F. | whosgonnastop85 | 189.5 | Unknown manager | 53 | 136.5 |
+| 2021 | 5 | Regular | Brad C. | Gibby Smalls | 187.74 | Robert H. | 130.9 | 56.84 |
+| 2013 | 1 | Regular | Ben H. | The Sheriff | 187.5 | Pat F. | 109 | 78.5 |
+| 2021 | 6 | Regular | Robert H. | Josh's Nut Farm | 187.22 | Mark T. | 140.36 | 46.86 |
+| 2021 | 5 | Regular | Marcus H. | Gert B Frobe | 184.58 | Matty M. | 135.02 | 49.56 |
+| 2023 | 12 | Regular | Michael M. | Roger | 180.7 | Marcus H. | 109.72 | 70.98 |
+| 2016 | 1 | Regular | Marcus H. | Gert B Frobe | 180.6 | Brad C. | 138.7 | 41.9 |
+
+### Lowest scores
+
+| Season | Week | Game | Manager | Team | Points | Opponent | Opp points | Margin |
+|---|---|---|---|---|---|---|---|---|
+| 2005 | 13 | Regular | Unknown manager | kekumbass | 28.5 | Erik P. | 97.5 | 69 |
+| 2005 | 9 | Regular | Unknown manager | Manchild23 | 31 | Mike L. | 69.5 | 38.5 |
+| 2005 | 14 | Regular | Mark T. | packers 1 | 31.5 | Unknown manager | 87.5 | 56 |
+| 2005 | 11 | Regular | Unknown manager | whats my name? | 32 | Robert H. | 92 | 60 |
+| 2008 | 7 | Regular | Unknown manager | The Untouchables | 32 | Kevin F. | 81 | 49 |
+| 2005 | 6 | Regular | Mark T. | packers 1 | 32.5 | Unknown manager | 90.5 | 58 |
+| 2005 | 7 | Regular | Mark T. | packers 1 | 34 | Unknown manager | 85 | 51 |
+| 2014 | 15 | Consolation | Robert H. | Backdoor Sluts 9 | 36 | Mike L. | 52.5 | 16.5 |
+| 2017 | 3 | Regular | Brad C. | the aryan race | 36.38 | Ben H. | 83.5 | 47.12 |
+| 2005 | 13 | Regular | Unknown manager | whats my name? | 37 | Unknown manager | 59 | 22 |
+
+### Biggest blowouts
+
+| Season | Week | Game | Manager | Team | Points | Opponent | Opp points | Margin |
+|---|---|---|---|---|---|---|---|---|
+| 2006 | 11 | Regular | Kevin F. | whosgonnastop85 | 189.5 | Unknown manager | 53 | 136.5 |
+| 2006 | 14 | Regular | Erik P. | TheNigs II | 196.5 | Unknown manager | 83 | 113.5 |
+| 2022 | 17 | Playoff: Final | Erik P. | Mel's Meat Curtains | 151.9 | Chris H. | 49.78 | 102.12 |
+| 2006 | 12 | Regular | Erik P. | TheNigs II | 191.5 | Marcus H. | 91 | 100.5 |
+| 2018 | 8 | Regular | Matty M. | Theres No I in Randy | 160.22 | Mark T. | 60.16 | 100.06 |
+| 2020 | 4 | Regular | Pat F. | Dunston Dimes | 165.52 | Marcus H. | 70.4 | 95.12 |
+| 2025 | 16 | Consolation: 5th Place Game | Mark T. | Lance Harbor | 174 | Matty M. | 79.1 | 94.9 |
+| 2018 | 13 | Regular | Matty M. | Theres No I in Randy | 166.76 | Chris H. | 74.82 | 91.94 |
+| 2024 | 16 | Consolation: 5th Place Game | Chris H. | Richard “Richie” Peters | 153.92 | Robert H. | 62.76 | 91.16 |
+| 2014 | 9 | Regular | Alex B. | Lynching | 143 | Pat F. | 53.5 | 89.5 |
+
+### Closest games
+
+| Season | Week | Game | Manager | Team | Points | Opponent | Opp points | Margin |
+|---|---|---|---|---|---|---|---|---|
+| 2016 | 6 | Regular | Erik P. | Mel's Meat Curtains | 110.96 | Ben H. | 110.92 | 0.04 |
+| 2021 | 17 | Consolation: 3rd Place Game | Michael M. | Roger | 121.56 | Brad C. | 121.5 | 0.06 |
+| 2022 | 5 | Regular | Robert H. | Josh's Nut Farm | 119.74 | Michael M. | 119.66 | 0.08 |
+| 2016 | 15 | Playoff: Semifinal | Erik P. | Mel's Meat Curtains | 104.44 | Brad C. | 104.32 | 0.12 |
+| 2025 | 4 | Regular | Matty M. | Big Beautiful Fantasy Team | 123.36 | Chris H. | 123.22 | 0.14 |
+| 2020 | 8 | Regular | Chris H. | Richard is Dead | 102.42 | Robert H. | 102.26 | 0.16 |
+| 2020 | 13 | Regular | Michael M. | Roger | 107 | Matty M. | 106.74 | 0.26 |
+| 2019 | 9 | Regular | Ben H. | More Bell Cow | 106.7 | Brad C. | 106.34 | 0.36 |
+| 2017 | 13 | Regular | Ben H. | .38 Special | 109.8 | Mark T. | 109.42 | 0.38 |
+| 2026 | 7 | Regular | Marcus H. | Gert B Frobe | 81.32 | Chris H. | 80.88 | 0.44 |
+
+### Most points in a loss
+
+| Season | Week | Game | Manager | Team | Points | Opponent | Opp points | Margin |
+|---|---|---|---|---|---|---|---|---|
+| 2022 | 8 | Regular | Michael M. | Roger | 162.6 | Ben H. | 170.58 | 7.98 |
+| 2024 | 16 | Playoff: Semifinal | Erik P. | Mel's Meat Curtains | 157.58 | Brad C. | 162.84 | 5.26 |
+| 2016 | 10 | Regular | Pat F. | Monkey Man | 149.9 | Matty M. | 168.98 | 19.08 |
+| 2025 | 10 | Regular | Chris H. | Riche Pierre | 148.2 | Michael M. | 171.58 | 23.38 |
+| 2013 | 15 | Playoff: Semifinal | Erik P. | Cheeseheads | 147 | Matty M. | 173 | 26 |
+| 2025 | 7 | Regular | Matty M. | Big Beautiful Fantasy Team | 145.12 | Michael M. | 176.16 | 31.04 |
+| 2019 | 7 | Regular | Brad C. | the aryan race | 144.52 | Erik P. | 148.84 | 4.32 |
+| 2025 | 16 | Playoff: Semifinal | Erik P. | Mel's Meat Curtains | 144.38 | Brad C. | 167.66 | 23.28 |
+| 2014 | 4 | Regular | Chris H. | Brian Sprague FD | 144 | Ben H. | 150.5 | 6.5 |
+| 2023 | 13 | Regular | Michael M. | Roger | 143.52 | Mark T. | 163.66 | 20.14 |
+
+### Fewest points in a win
+
+| Season | Week | Game | Manager | Team | Points | Opponent | Opp points | Margin |
+|---|---|---|---|---|---|---|---|---|
+| 2014 | 15 | Consolation | Mike L. | Summit street filth | 52.5 | Robert H. | 36 | 16.5 |
+| 2008 | 8 | Regular | Mark T. | Th3 CuB3 | 56 | Unknown manager | 48 | 8 |
+| 2005 | 16 | Consolation | Unknown manager | kekumbass | 57.5 | Unknown manager | 53.5 | 4 |
+| 2005 | 13 | Regular | Unknown manager | Manchild23 | 59 | Unknown manager | 37 | 22 |
+| 2008 | 1 | Regular | Unknown manager | The Untouchables | 61 | Unknown manager | 54 | 7 |
+| 2008 | 11 | Regular | Unknown manager | CLIFFS MOM IS HOT | 61 | Kevin F. | 60 | 1 |
+| 2009 | 5 | Regular | Unknown manager | Cougars | 63 | Ben H. | 55 | 8 |
+| 2008 | 12 | Regular | Robert H. | unga bunga | 65 | Unknown manager | 63 | 2 |
+| 2010 | 7 | Regular | Matty M. | Try&KickMeOutBitches | 67 | Unknown manager | 54.5 | 12.5 |
+| 2013 | 9 | Regular | Marcus H. | Gert B Frobe | 67 | Mark T. | 64.5 | 2.5 |
+
+### Ties
+
+| Season | Week | Game | Manager | Team | Points | Opponent | Opp points | Margin |
+|---|---|---|---|---|---|---|---|---|
+| 2009 | 7 | Regular | Unknown manager | Miss Lippy | 116 | Ben H. | 116 | 0 |
+| 2013 | 15 | Consolation: 5th Place Game | Michael M. | Dear Leader | 115 | Brad C. | 115 | 0 |
+
+## All-play and luck
+
+All-play: each week, every team is scored against every other team's score. Expected wins = all-play win % times games played. Luck = actual wins minus expected wins. Regular season only.
+
+| Manager | All-play record | All-play % | Actual wins | Expected wins | Luck | Weekly top score |
+|---|---|---|---|---|---|---|
+| Michael M. | 1194-846-1 | .585 | 127 | 122.93 | +4.07 | 33 |
+| Kevin F. | 247-176-1 | .584 | 26 | 25.9 | +0.10 | 10 |
+| Erik P. | 1239-1042-2 | .543 | 121 | 129.7 | -8.70 | 22 |
+| Brad C. | 1326-1148-10 | .536 | 139 | 135 | +4.00 | 29 |
+| Chris H. | 1366-1243-10 | .523 | 137 | 140.03 | -3.03 | 22 |
+| Mike L. | 726-694-10 | .511 | 65 | 70.28 | -5.28 | 14 |
+| Marcus H. | 1236-1225-4 | .502 | 127 | 125.85 | +1.15 | 25 |
+| Robert H. | 1369-1370-6 | .500 | 133 | 142.45 | -9.45 | 24 |
+| Alex B. | 354-371-1 | .488 | 37 | 32.23 | +4.77 | 4 |
+| Pat F. | 879-1007-1 | .466 | 96 | 90.84 | +5.16 | 19 |
+| Ben H. | 1005-1168-3 | .463 | 103.5 | 102.28 | +1.22 | 14 |
+| Matty M. | 1066-1260-4 | .458 | 121 | 110.54 | +10.46 | 19 |
+| Mark T. | 1014-1298-9 | .439 | 98 | 103.08 | -5.08 | 17 |
+
+### Luckiest seasons
+
+| Season | Manager | Team | Record | Expected wins | Luck | Final rank | Finish |
+|---|---|---|---|---|---|---|---|
+| 2022 | Matty M. | Can’t Handle The Randall | 10-4 | 6 | +4.00 | 3 | third |
+| 2009 | Brad C. | the aryan race | 10-4 | 6.73 | +3.27 | 1 | champion |
+| 2007 | Robert H. | extremely large bob | 10-5 | 6.83 | +3.17 | 4 |  |
+| 2018 | Brad C. | the aryan race | 11-2 | 7.89 | +3.11 | 2 | runner-up |
+| 2024 | Michael M. | Roger | 10-4 | 7.11 | +2.89 | 1 | champion |
+| 2016 | Alex B. | A Fountain of Youth | 8-5 | 5.18 | +2.82 | 6 |  |
+| 2017 | Marcus H. | Gert B Frobe | 9-4 | 6.33 | +2.67 | 3 | third |
+| 2025 | Robert H. | The son rises | 10-4 | 7.33 | +2.67 | 2 | runner-up |
+| 2015 | Pat F. | Monkey Man | 10-3 | 7.55 | +2.45 | 4 |  |
+| 2010 | Unknown manager | Toats Magoats | 10-4 | 7.68 | +2.32 | 4 |  |
+
+### Unluckiest seasons
+
+| Season | Manager | Team | Record | Expected wins | Luck | Final rank | Finish |
+|---|---|---|---|---|---|---|---|
+| 2020 | Robert H. | Bob Football Team | 3-10 | 6.56 | -3.56 | 5 |  |
+| 2006 | Unknown manager | The Bakers | 5-10 | 8.44 | -3.44 | 8 |  |
+| 2010 | Unknown manager | teachmehowtodougie | 4-10 | 7.27 | -3.27 | 11 |  |
+| 2016 | Matty M. | MkeTheCowbellGrtAgn | 5-8 | 8.27 | -3.27 | 12 | last |
+| 2016 | Pat F. | Monkey Man | 2-11 | 5.09 | -3.09 | 10 |  |
+| 2007 | Kevin F. | 85 is back | 4-11 | 6.94 | -2.94 | 9 |  |
+| 2009 | Chris H. | Mike Turners Vagina | 7-7 | 9.59 | -2.59 | 8 |  |
+| 2017 | Michael M. | Famous Jameis | 6-7 | 8.56 | -2.56 | 5 |  |
+| 2007 | Erik P. | TheNigsRback | 4-11 | 6.5 | -2.50 | 8 |  |
+| 2008 | Mike L. | The Big Mike's | 4-10 | 6.5 | -2.50 | 12 | last |
+
+## Points rank vs finish
+
+PF rank is the regular-season points rank. Final rank is Yahoo's, after the playoffs.
+
+### Where the points leader finished
+
+| Season | Manager | Team | Record | PF | PF rank | Final rank | Finish |
+|---|---|---|---|---|---|---|---|
+| 2025 | Michael M. | Roger | 9-5 | 1,729.18 | 1 | 4 |  |
+| 2024 | Chris H. | Richard “Richie” Peters | 9-5 | 1,725.22 | 1 | 5 |  |
+| 2023 | Michael M. | Roger | 9-5 | 1,886.54 | 1 | 1 | champion |
+| 2022 | Marcus H. | Gert B Frobe | 11-3 | 1,699.74 | 1 | 4 |  |
+| 2021 | Robert H. | Josh's Nut Farm | 9-5 | 1,851.8 | 1 | 2 | runner-up |
+| 2020 | Erik P. | Mel's Meat Curtains | 9-4 | 1,744.36 | 1 | 2 | runner-up |
+| 2019 | Chris H. | Lil Richie | 9-4 | 1,680.74 | 1 | 3 | third |
+| 2018 | Michael M. | Tea Kittle | 11-2 | 1,788.44 | 1 | 1 | champion |
+| 2017 | Michael M. | Famous Jameis | 6-7 | 1,604.52 | 1 | 5 |  |
+| 2016 | Brad C. | the aryan race | 9-4 | 1,636.5 | 1 | 3 | third |
+| 2015 | Michael M. | Famous Jameis | 10-3 | 1,622.7 | 1 | 2 | runner-up |
+| 2014 | Alex B. | Lynching | 9-4 | 1,507 | 1 | 1 | champion |
+| 2013 | Ben H. | The Sheriff | 9-4 | 1,540.5 | 1 | 1 | champion |
+| 2011 | Mike L. | Summit st. Filth | 10-4 | 1,707 | 1 | 3 | third |
+| 2010 | Marcus H. | Jooe Shmoe | 10-4 | 1,619 | 1 | 3 | third |
+| 2009 | Unknown manager | Makin it Wayne | 9-5 | 1,512 | 1 | 2 | runner-up |
+| 2008 | Unknown manager | Billy Cundiff | 11-3 | 1,416 | 1 | 4 |  |
+| 2007 | Matty M. | Hitler's Cowbell | 13-2 | 2,002.5 | 1 | 3 | third |
+| 2006 | Kevin F. | whosgonnastop85 | 13-2 | 1,968.5 | 1 | 3 | third |
+| 2005 | Robert H. | blue devils | 9-5 | 1,366 | 1 | 1 | champion |
+
+### Finished well above their points rank
+
+| Season | Manager | Team | Record | PF | PF rank | Final rank | Finish |
+|---|---|---|---|---|---|---|---|
+| 2009 | Brad C. | the aryan race | 10-4 | 1,261 | 7 | 1 | champion |
+| 2018 | Marcus H. | Gert B Frobe | 7-6 | 1,433.44 | 9 | 3 | third |
+| 2008 | Mark T. | Th3 CuB3 | 8-6 | 1,144 | 6 | 1 | champion |
+| 2010 | Chris H. | Andre the Bitch | 9-5 | 1,402 | 7 | 2 | runner-up |
+| 2015 | Matty M. | Do it for Randy | 1-12 | 1,209.66 | 12 | 7 |  |
+| 2016 | Alex B. | A Fountain of Youth | 8-5 | 1,333.3 | 11 | 6 |  |
+| 2017 | Ben H. | .38 Special | 7-6 | 1,313.24 | 9 | 4 |  |
+| 2022 | Matty M. | Can’t Handle The Randall | 10-4 | 1,504.04 | 8 | 3 | third |
+| 2024 | Michael M. | Roger | 10-4 | 1,624.88 | 6 | 1 | champion |
+| 2006 | Robert H. | Big Bob | 10-5 | 1,649 | 5 | 1 | champion |
+
+### Finished well below their points rank
+
+| Season | Manager | Team | Record | PF | PF rank | Final rank | Finish |
+|---|---|---|---|---|---|---|---|
+| 2016 | Matty M. | MkeTheCowbellGrtAgn | 5-8 | 1,568.84 | 2 | 12 | last |
+| 2009 | Chris H. | Mike Turners Vagina | 7-7 | 1,469 | 2 | 8 |  |
+| 2010 | Unknown manager | teachmehowtodougie | 4-10 | 1,428 | 5 | 11 |  |
+| 2010 | Unknown manager | suckmei goc | 7-7 | 1,500.5 | 2 | 8 |  |
+| 2015 | Marcus H. | Gert B Frobe | 5-8 | 1,491.98 | 4 | 10 |  |
+| 2007 | Unknown manager | PLaYMaKeRs | 7-8 | 1,743 | 2 | 7 |  |
+| 2008 | Marcus H. | Bills | 5-9 | 1,226 | 4 | 9 |  |
+| 2006 | Unknown manager | The Bakers | 5-10 | 1,690 | 4 | 8 |  |
+| 2007 | Erik P. | TheNigsRback | 4-11 | 1,659 | 4 | 8 |  |
+| 2008 | Brad C. | No repeat. | 4-10 | 1,139 | 7 | 11 |  |
+
+## Streaks
+
+Regular-season games. A streak carries over between back-to-back seasons (2011 to 2013 counts as back to back).
+
+| Manager | Longest win streak | When | Longest losing streak | When |
+|---|---|---|---|---|
+| Matty M. | 12 | 2007 wk 1 to 2007 wk 12 | 12 | 2014 wk 12 to 2015 wk 10 |
+| Brad C. | 9 | 2025 wk 5 to 2025 wk 13 | 7 | 2008 wk 8 to 2008 wk 14 |
+| Chris H. | 9 | 2019 wk 8 to 2020 wk 3 | 6 | 2013 wk 9 to 2014 wk 1 |
+| Marcus H. | 9 | 2021 wk 3 to 2021 wk 11 | 9 | 2025 wk 5 to 2025 wk 13 |
+| Michael M. | 9 | 2019 wk 11 to 2020 wk 6 | 4 | 2010 wk 2 to 2010 wk 5 |
+| Pat F. | 9 | 2020 wk 3 to 2020 wk 11 | 9 | 2025 wk 10 to 2026 wk 4 |
+| Erik P. | 7 | 2020 wk 7 to 2020 wk 13 | 6 | 2007 wk 2 to 2007 wk 7 |
+| Robert H. | 7 | 2005 wk 10 to 2006 wk 2 | 7 | 2009 wk 6 to 2009 wk 12 |
+| Alex B. | 6 | 2014 wk 13 to 2015 wk 5 | 5 | 2011 wk 7 to 2011 wk 11 |
+| Kevin F. | 6 | 2006 wk 10 to 2006 wk 15 | 6 | 2007 wk 3 to 2007 wk 8 |
+| Ben H. | 5 | 2015 wk 12 to 2016 wk 3 | 8 | 2023 wk 13 to 2024 wk 6 |
+| Mark T. | 5 | 2014 wk 12 to 2015 wk 3 | 20 | 2017 wk 13 to 2019 wk 6 |
+| Mike L. | 5 | 2005 wk 7 to 2005 wk 11 | 7 | 2008 wk 2 to 2008 wk 8 |
+
+## Best and worst season by manager
+
+Completed seasons, ranked by regular-season win %, then points for.
+
+| Manager | Best | Record | PF | Final | Worst | Record | PF | Final |
+|---|---|---|---|---|---|---|---|---|
+| Alex B. | 2014 Lynching | 9-4 | 1,507 | 1 (champion) | 2011 GetOffMyD1ck | 3-11 | 1,265 | 11 |
+| Ben H. | 2016 Peyton on Sunday AM | 10-3 | 1,555.8 | 4 | 2024 Love2Chase W’s | 3-11 | 1,478.5 | 7 |
+| Brad C. | 2018 the aryan race | 11-2 | 1,637.82 | 2 (runner-up) | 2008 No repeat. | 4-10 | 1,139 | 11 |
+| Chris H. | 2008 Abby Scalia's Mom | 11-3 | 1,368 | 2 (runner-up) | 2013 R Peters Babysitting | 3-10 | 1,140 | 12 (last) |
+| Erik P. | 2020 Mel's Meat Curtains | 9-4 | 1,744.36 | 2 (runner-up) | 2007 TheNigsRback | 4-11 | 1,659 | 8 |
+| Kevin F. | 2006 whosgonnastop85 | 13-2 | 1,968.5 | 3 (third) | 2007 85 is back | 4-11 | 1,604 | 9 |
+| Marcus H. | 2021 Gert B Frobe | 11-3 | 1,765.94 | 1 (champion) | 2019 Gert B Frobe | 3-10 | 1,236.78 | 9 |
+| Mark T. | 2023 Vickie Valencourt | 9-5 | 1,606.18 | 4 | 2018 2017Cleveland Browns | 0-13 | 1,163.28 | 7 |
+| Matty M. | 2007 Hitler's Cowbell | 13-2 | 2,002.5 | 3 (third) | 2015 Do it for Randy | 1-12 | 1,209.66 | 7 |
+| Michael M. | 2018 Tea Kittle | 11-2 | 1,788.44 | 1 (champion) | 2022 Roger | 5-9 | 1,542.98 | 9 |
+| Mike L. | 2011 Summit st. Filth | 10-4 | 1,707 | 3 (third) | 2006 jimmy gon win | 4-11 | 1,287.5 | 9 |
+| Pat F. | 2020 Dunston Dimes | 11-2 | 1,644.42 | 3 (third) | 2016 Monkey Man | 2-11 | 1,306.92 | 10 |
+| Robert H. | 2025 The son rises | 10-4 | 1,570.86 | 2 (runner-up) | 2010 unga bunga | 3-11 | 1,206.5 | 12 (last) |
+
+## First-round picks
+
+### Alex B.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2016 | 10 | Allen Robinson |  |  |  |
+| 2015 | 12 | Adrian Peterson |  |  | yes |
+| 2014 | 9 | Doug Martin |  |  |  |
+| 2013 | 11 | Larry Fitzgerald |  |  |  |
+| 2011 | 2 | Peyton Manning |  |  |  |
+
+### Ben H.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 5 | James Cook III | RB | Buf |  |
+| 2025 | 9 | Derrick Henry |  |  |  |
+| 2024 | 8 | Ja'Marr Chase |  |  |  |
+| 2023 | 5 | Nick Chubb |  |  |  |
+| 2022 | 8 | Najee Harris |  |  |  |
+| 2021 | 7 | Davante Adams |  |  |  |
+| 2020 | 10 | Patrick Mahomes |  |  |  |
+| 2019 | 10 | Le'Veon Bell |  |  | yes |
+| 2018 | 2 | Ezekiel Elliott |  |  |  |
+| 2017 | 7 | Ezekiel Elliott |  |  |  |
+| 2016 | 3 | DeAndre Hopkins |  |  |  |
+| 2015 | 11 | A.J. Green |  |  |  |
+| 2014 | 12 | Peyton Manning |  |  | yes |
+| 2013 | 8 | Peyton Manning |  |  |  |
+| 2011 | 6 | Maurice Jones-Drew |  |  |  |
+| 2009 | 4 | Maurice Jones-Drew |  |  |  |
+| 2006 | 4 | Peyton Manning |  |  |  |
+
+### Brad C.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 2 | Jonathan Taylor | RB | Ind |  |
+| 2025 | 4 | Saquon Barkley |  |  |  |
+| 2024 | 7 | Saquon Barkley |  |  |  |
+| 2023 | 4 | Travis Kelce |  |  |  |
+| 2022 | 1 | Jonathan Taylor |  |  |  |
+| 2021 | 5 | Aaron Jones Sr. |  |  |  |
+| 2020 | 2 | Ezekiel Elliott |  |  |  |
+| 2019 | 4 | Ezekiel Elliott |  |  |  |
+| 2018 | 5 | Saquon Barkley |  |  |  |
+| 2017 | 8 | DeMarco Murray |  |  |  |
+| 2016 | 7 | Rob Gronkowski |  |  |  |
+| 2015 | 5 | Rob Gronkowski |  |  |  |
+| 2014 | 8 | Adrian Peterson |  |  | yes |
+| 2013 | 10 | Adrian Peterson |  |  | yes |
+| 2011 | 8 | Michael Turner |  |  |  |
+| 2010 | 7 | Aaron Rodgers |  |  |  |
+| 2009 | 6 | Steven Jackson |  |  |  |
+| 2008 | 8 | Steven Jackson |  |  |  |
+| 2007 | 2 | Steven Jackson |  |  |  |
+
+### Chris H.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 1 | Jahmyr Gibbs | RB | Det |  |
+| 2025 | 7 | Christian McCaffrey |  |  |  |
+| 2024 | 1 | Bijan Robinson |  |  |  |
+| 2023 | 2 | Justin Jefferson |  |  |  |
+| 2022 | 4 | Justin Jefferson |  |  |  |
+| 2021 | 3 | Alvin Kamara |  |  |  |
+| 2020 | 3 | Alvin Kamara |  |  |  |
+| 2019 | 6 | Dalvin Cook |  |  |  |
+| 2018 | 7 | Melvin Gordon III |  |  |  |
+| 2017 | 4 | A.J. Green |  |  |  |
+| 2016 | 6 | Lamar Miller |  |  |  |
+| 2015 | 1 | Eddie Lacy |  |  |  |
+| 2014 | 1 | Jamaal Charles |  |  |  |
+| 2013 | 7 | Chris Johnson |  |  |  |
+| 2011 | 11 | Andre Johnson |  |  |  |
+| 2010 | 5 | Andre Johnson |  |  |  |
+| 2009 | 5 | LaDainian Tomlinson |  |  |  |
+| 2008 | 2 | Adrian Peterson |  |  |  |
+| 2007 | 10 | Willie Parker |  |  |  |
+| 2006 | 5 | Clinton Portis |  |  |  |
+
+### Erik P.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 6 | Bijan Robinson | RB | Atl | yes |
+| 2025 | 2 | Bijan Robinson |  |  |  |
+| 2024 | 9 | Jahmyr Gibbs |  |  |  |
+| 2023 | 6 | Austin Ekeler |  |  |  |
+| 2022 | 3 | Austin Ekeler |  |  |  |
+| 2021 | 1 | Christian McCaffrey |  |  |  |
+| 2020 | 9 | Tyreek Hill |  |  |  |
+| 2019 | 9 | Julio Jones |  |  |  |
+| 2018 | 3 | David Johnson |  |  |  |
+| 2017 | 9 | Todd Gurley |  |  |  |
+| 2016 | 2 | Adrian Peterson |  |  |  |
+| 2015 | 8 | Jamaal Charles |  |  | yes |
+| 2014 | 10 | Matt Forte |  |  | yes |
+| 2013 | 4 | Matt Forte |  |  |  |
+| 2011 | 7 | Rashard Mendenhall |  |  |  |
+| 2007 | 6 | Shaun Alexander |  |  |  |
+| 2006 | 7 | Tiki Barber |  |  |  |
+| 2005 | 2 | LaDainian Tomlinson |  |  |  |
+
+### Kevin F.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2008 | 4 | Brian Westbrook |  |  |  |
+| 2007 | 4 | Drew Brees |  |  |  |
+| 2006 | 6 | Edgerrin James |  |  |  |
+
+### Marcus H.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 10 | Justin Jefferson | WR | Min |  |
+| 2025 | 6 | Justin Jefferson |  |  |  |
+| 2024 | 3 | Tyreek Hill |  |  |  |
+| 2023 | 7 | Bijan Robinson |  |  |  |
+| 2022 | 7 | Joe Mixon |  |  |  |
+| 2021 | 8 | Tyreek Hill |  |  |  |
+| 2020 | 7 | Davante Adams |  |  |  |
+| 2019 | 8 | Davante Adams |  |  |  |
+| 2018 | 4 | Antonio Brown |  |  |  |
+| 2017 | 10 | Aaron Rodgers |  |  |  |
+| 2016 | 5 | Ezekiel Elliott |  |  |  |
+| 2015 | 7 | Andrew Luck |  |  |  |
+| 2014 | 5 | Dez Bryant |  |  |  |
+| 2013 | 5 | Drew Brees |  |  |  |
+| 2011 | 10 | Frank Gore |  |  |  |
+| 2010 | 11 | DeAngelo Williams |  |  |  |
+| 2008 | 9 | Clinton Portis |  |  |  |
+| 2007 | 7 | Frank Gore |  |  |  |
+| 2006 | 10 | Rudi Johnson |  |  |  |
+
+### Mark T.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 8 | CeeDee Lamb | WR | Dal |  |
+| 2025 | 10 | Ashton Jeanty |  |  |  |
+| 2024 | 6 | Justin Jefferson |  |  |  |
+| 2023 | 8 | Stefon Diggs |  |  |  |
+| 2022 | 9 | Aaron Jones Sr. |  |  |  |
+| 2021 | 9 | Nick Chubb |  |  |  |
+| 2020 | 6 | Clyde Edwards-Helaire |  |  |  |
+| 2019 | 2 | Alvin Kamara |  |  |  |
+| 2018 | 6 | Le'Veon Bell |  |  |  |
+| 2017 | 5 | Jay Ajayi |  |  |  |
+| 2016 | 12 | Aaron Rodgers |  |  |  |
+| 2015 | 10 | Aaron Rodgers |  |  |  |
+| 2014 | 4 | Drew Brees |  |  |  |
+| 2013 | 2 | Aaron Rodgers |  |  |  |
+| 2011 | 5 | Chris Johnson |  |  |  |
+| 2009 | 11 | Frank Gore |  |  |  |
+| 2008 | 12 | Peyton Manning |  |  |  |
+| 2005 | 8 | Randy Moss |  |  |  |
+
+### Matty M.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 9 | Chase Brown | RB | Cin |  |
+| 2025 | 5 | CeeDee Lamb |  |  |  |
+| 2024 | 5 | Christian McCaffrey |  |  | yes |
+| 2023 | 1 | Christian McCaffrey |  |  |  |
+| 2022 | 2 | Christian McCaffrey |  |  |  |
+| 2021 | 6 | Ezekiel Elliott |  |  |  |
+| 2020 | 8 | Saquon Barkley |  |  | yes |
+| 2019 | 1 | Saquon Barkley |  |  |  |
+| 2018 | 8 | Odell Beckham Jr. |  |  |  |
+| 2017 | 3 | Mike Evans |  |  |  |
+| 2016 | 1 | Julio Jones |  |  |  |
+| 2015 | 6 | Jeremy Hill |  |  |  |
+| 2014 | 11 | Keenan Allen |  |  |  |
+| 2013 | 1 | Jamaal Charles |  |  |  |
+| 2011 | 3 | Tom Brady |  |  |  |
+| 2010 | 12 | Tom Brady |  |  |  |
+| 2009 | 10 | Larry Fitzgerald |  |  |  |
+| 2007 | 8 | Tom Brady |  |  |  |
+
+### Michael M.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 3 | Ja'Marr Chase | WR | Cin |  |
+| 2025 | 3 | Jahmyr Gibbs |  |  |  |
+| 2024 | 4 | Amon-Ra St. Brown |  |  |  |
+| 2023 | 10 | Saquon Barkley |  |  |  |
+| 2022 | 5 | Dalvin Cook |  |  |  |
+| 2021 | 10 | Travis Kelce |  |  |  |
+| 2020 | 5 | Joe Mixon |  |  |  |
+| 2019 | 5 | David Johnson |  |  |  |
+| 2018 | 9 | Christian McCaffrey |  |  |  |
+| 2017 | 6 | Melvin Gordon III |  |  |  |
+| 2016 | 11 | Jamaal Charles |  |  |  |
+| 2015 | 3 | Demaryius Thomas |  |  |  |
+| 2014 | 7 | Montee Ball |  |  |  |
+| 2013 | 12 | Steven Jackson |  |  |  |
+| 2011 | 4 | Ray Rice |  |  |  |
+| 2010 | 8 | Steven Jackson |  |  |  |
+
+### Mike L.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2016 | 4 | A.J. Green |  |  |  |
+| 2015 | 4 | Dez Bryant |  |  |  |
+| 2014 | 3 | Demaryius Thomas |  |  |  |
+| 2013 | 3 | Ray Rice |  |  |  |
+| 2011 | 12 | Drew Brees |  |  |  |
+| 2010 | 9 | Drew Brees |  |  |  |
+| 2008 | 6 | Marion Barber |  |  |  |
+| 2007 | 1 | LaDainian Tomlinson |  |  |  |
+| 2006 | 3 | LaDainian Tomlinson |  |  |  |
+| 2005 | 3 | Daunte Culpepper |  |  |  |
+
+### Pat F.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 7 | Saquon Barkley | RB | Phi |  |
+| 2025 | 8 | Nico Collins |  |  |  |
+| 2024 | 2 | CeeDee Lamb |  |  |  |
+| 2023 | 3 | Ja'Marr Chase |  |  |  |
+| 2022 | 6 | Derrick Henry |  |  |  |
+| 2021 | 2 | Dalvin Cook |  |  |  |
+| 2020 | 4 | Dalvin Cook |  |  |  |
+| 2019 | 7 | DeAndre Hopkins |  |  |  |
+| 2018 | 10 | Michael Thomas |  |  |  |
+| 2017 | 1 | Julio Jones |  |  |  |
+| 2016 | 9 | Sammy Watkins |  |  |  |
+| 2015 | 9 | Calvin Johnson |  |  |  |
+| 2014 | 6 | Brandon Marshall |  |  |  |
+| 2013 | 6 | Maurice Jones-Drew |  |  |  |
+| 2011 | 9 | Adrian Peterson |  |  |  |
+
+### Robert H.
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2026 | 4 | Christian McCaffrey | RB | SF |  |
+| 2025 | 1 | Ja'Marr Chase |  |  |  |
+| 2024 | 10 | Garrett Wilson |  |  |  |
+| 2023 | 9 | CeeDee Lamb |  |  |  |
+| 2022 | 10 | Stefon Diggs |  |  |  |
+| 2021 | 4 | Derrick Henry |  |  |  |
+| 2020 | 1 | Christian McCaffrey |  |  |  |
+| 2019 | 3 | Christian McCaffrey |  |  |  |
+| 2018 | 1 | Todd Gurley |  |  |  |
+| 2017 | 2 | Devonta Freeman |  |  |  |
+| 2016 | 8 | Dez Bryant |  |  |  |
+| 2015 | 2 | Marshawn Lynch |  |  |  |
+| 2014 | 2 | Aaron Rodgers |  |  |  |
+| 2013 | 9 | Dez Bryant |  |  |  |
+| 2011 | 1 | Aaron Rodgers |  |  |  |
+| 2010 | 10 | Frank Gore |  |  |  |
+| 2009 | 8 | Clinton Portis |  |  |  |
+| 2008 | 11 | Frank Gore |  |  |  |
+| 2007 | 5 | Larry Johnson |  |  |  |
+| 2006 | 2 | Shaun Alexander |  |  |  |
+| 2005 | 4 | Shaun Alexander |  |  |  |
+
+### Unknown manager
+
+| Season | Pick | Player | Pos | NFL | Keeper |
+|---|---|---|---|---|---|
+| 2010 | 1 | Chris Johnson |  |  |  |
+| 2010 | 2 | Adrian Peterson |  |  |  |
+| 2010 | 3 | Maurice Jones-Drew |  |  |  |
+| 2010 | 4 | Ray Rice |  |  |  |
+| 2010 | 6 | Michael Turner |  |  |  |
+| 2009 | 1 | Adrian Peterson |  |  |  |
+| 2009 | 2 | Matt Forte |  |  |  |
+| 2009 | 3 | Michael Turner |  |  |  |
+| 2009 | 7 | DeAngelo Williams |  |  |  |
+| 2009 | 9 | Steve Slaton |  |  |  |
+| 2009 | 12 | Drew Brees |  |  |  |
+| 2008 | 1 | LaDainian Tomlinson |  |  |  |
+| 2008 | 3 | Randy Moss |  |  |  |
+| 2008 | 5 | Joseph Addai |  |  |  |
+| 2008 | 7 | Tom Brady |  |  |  |
+| 2008 | 10 | Marshawn Lynch |  |  |  |
+| 2007 | 3 | Peyton Manning |  |  |  |
+| 2007 | 9 | Marc Bulger |  |  |  |
+| 2006 | 1 | Larry Johnson |  |  |  |
+| 2006 | 8 | Steve Smith |  |  |  |
+| 2006 | 9 | Marvin Harrison |  |  |  |
+| 2005 | 1 | Peyton Manning |  |  |  |
+| 2005 | 5 | Donovan McNabb |  |  |  |
+| 2005 | 6 | Priest Holmes |  |  |  |
+| 2005 | 7 | Willis McGahee |  |  |  |
+| 2005 | 9 | Edgerrin James |  |  |  |
+| 2005 | 10 | Domanick Williams |  |  |  |
+
+## Trades, adds and FAAB
+
+Trades count each trade once per manager involved. FAAB bidding began in 2015; earlier seasons used a rolling waiver list.
+
+| Manager | Trades | Adds | Drops | Waiver claims | FAAB spent | Adds per season |
+|---|---|---|---|---|---|---|
+| Michael M. | 45 | 792 | 764 | 267 | $1085 | 49.5 |
+| Chris H. | 76 | 743 | 723 | 212 | $1087 | 37.1 |
+| Brad C. | 35 | 727 | 703 | 172 | $1037 | 38.3 |
+| Matty M. | 26 | 586 | 575 | 155 | $1072 | 32.6 |
+| Erik P. | 13 | 574 | 562 | 247 | $1035 | 31.9 |
+| Ben H. | 10 | 455 | 442 | 125 | $766 | 26.8 |
+| Robert H. | 25 | 391 | 388 | 105 | $800 | 18.6 |
+| Marcus H. | 19 | 378 | 358 | 93 | $559 | 19.9 |
+| Mark T. | 32 | 334 | 332 | 115 | $615 | 18.6 |
+| Pat F. | 9 | 226 | 219 | 107 | $824 | 15.1 |
+| Mike L. | 14 | 188 | 188 | 16 | $100 | 18.8 |
+| Alex B. | 15 | 122 | 121 | 35 | $193 | 24.4 |
+| Kevin F. | 5 | 47 | 40 | 0 | $0 | 15.7 |
+
+### Biggest FAAB bids
+
+| Season | Date | Manager | Player | Pos | Bid |
+|---|---|---|---|---|---|
+| 2016 | 2016-11-02 | Mike L. | Adam Humphries | WR | $100 |
+| 2023 | 2023-09-20 | Ben H. | Jerome Ford | RB | $69 |
+| 2025 | 2025-11-19 | Matty M. | Emanuel Wilson | RB | $68 |
+| 2015 | 2015-11-04 | Marcus H. | DeAngelo Williams | RB | $60 |
+| 2023 | 2023-11-29 | Matty M. | Zack Moss | RB | $58 |
+| 2024 | 2024-09-25 | Matty M. | Jauan Jennings | WR | $55 |
+| 2017 | 2017-10-04 | Matty M. | Latavius Murray | RB | $55 |
+| 2024 | 2024-12-04 | Michael M. | Isaac Guerendo | RB | $53 |
+| 2017 | 2017-09-13 | Brad C. | Tarik Cohen | RB | $52 |
+| 2015 | 2015-10-14 | Alex B. | Charcandrick West | RB | $50 |
+
+## Rivalries
+
+Regular-season and playoff games between two known managers.
+
+### Most games played
+
+| Rivalry | Games | Record (first named) | Playoff games | Avg point gap per game |
+|---|---|---|---|---|
+| Chris H. vs Marcus H. | 30 | 12-18 | 2 | 6.11 |
+| Brad C. vs Chris H. | 29 | 13-16 | 1 | 1.74 |
+| Erik P. vs Matty M. | 28 | 13-15 | 3 | 0.09 |
+| Brad C. vs Matty M. | 28 | 17-11 | 1 | 8.55 |
+| Brad C. vs Michael M. | 28 | 11-17 | 4 | 8.77 |
+| Erik P. vs Robert H. | 28 | 10-18 | 2 | 2.49 |
+| Chris H. vs Robert H. | 28 | 18-10 | 3 | 6.37 |
+| Marcus H. vs Robert H. | 27 | 15-12 | 3 | 1.29 |
+| Chris H. vs Erik P. | 27 | 10-17 | 3 | 20.84 |
+| Michael M. vs Robert H. | 26 | 15-11 | 3 | 9.44 |
+
+### Closest series (15+ games)
+
+| Rivalry | Games | Record (first named) | Playoff games | Avg point gap per game |
+|---|---|---|---|---|
+| Erik P. vs Michael M. | 24 | 12-12 | 4 | 2.66 |
+| Mark T. vs Pat F. | 21 | 11-10 | 2 | 4.95 |
+| Marcus H. vs Pat F. | 19 | 9-10 | 0 | 5.36 |
+| Chris H. vs Pat F. | 21 | 10-11 | 2 | 5.78 |
+| Ben H. vs Robert H. | 25 | 12-13 | 0 | 6.63 |
+| Pat F. vs Robert H. | 23 | 12-11 | 0 | 8.54 |
+| Erik P. vs Matty M. | 28 | 13-15 | 3 | 0.09 |
+| Ben H. vs Mark T. | 24 | 13-11 | 1 | 1.73 |
+| Chris H. vs Mark T. | 24 | 13-11 | 1 | 7.42 |
+| Ben H. vs Matty M. | 20 | 9-11 | 2 | 10.16 |
+
+### Most one-sided (15+ games)
+
+| Rivalry | Games | Record (first named) | Playoff games | Avg point gap per game |
+|---|---|---|---|---|
+| Mark T. vs Michael M. | 25 | 6-19 | 2 | 15.49 |
+| Ben H. vs Brad C. | 23 | 6-17 | 1 | 8.39 |
+| Erik P. vs Robert H. | 28 | 10-18 | 2 | 2.49 |
+| Chris H. vs Robert H. | 28 | 18-10 | 3 | 6.37 |
+| Chris H. vs Matty M. | 26 | 17-9 | 1 | 12.01 |
+| Brad C. vs Robert H. | 26 | 17-9 | 1 | 7.5 |
+| Marcus H. vs Michael M. | 22 | 7-15 | 1 | 14.41 |
+| Mark T. vs Robert H. | 25 | 9-16 | 1 | 5.8 |
+| Ben H. vs Marcus H. | 25 | 9-16 | 2 | 2.32 |
+| Chris H. vs Erik P. | 27 | 10-17 | 3 | 20.84 |
+
+## Scoring by season
+
+Regular-season points per team per game.
+
+| Season | Average | High | Low | PPR |
+|---|---|---|---|---|
+| 2005 | 83.15 | 146.5 | 28.5 | 0 |
+| 2006 | 103.74 | 196.5 | 41 | 0 |
+| 2007 | 110.75 | 178.5 | 40 | 0 |
+| 2008 | 84.43 | 148 | 32 | 0 |
+| 2009 | 90.29 | 147 | 45 | 0 |
+| 2010 | 100.39 | 150 | 45 | 0.5 |
+| 2011 | 103.38 | 166 | 54.5 | 0.5 |
+| 2013 | 106.21 | 187.5 | 59 | 0.5 |
+| 2014 | 105.62 | 153 | 53.5 | 0.5 |
+| 2015 | 111.37 | 190.7 | 48.8 | 0.5 |
+| 2016 | 110.26 | 180.6 | 61.44 | 0.5 |
+| 2017 | 108.59 | 162.14 | 36.38 | 0.5 |
+| 2018 | 120.15 | 175.8 | 58.66 | 0.5 |
+| 2019 | 113 | 178.22 | 53.76 | 0.5 |
+| 2020 | 114.71 | 177.02 | 60.36 | 0.5 |
+| 2021 | 115.96 | 187.74 | 57.5 | 0.5 |
+| 2022 | 111.09 | 176.8 | 63.86 | 0.5 |
+| 2023 | 113.81 | 180.7 | 58.14 | 0.5 |
+| 2024 | 113.83 | 156.38 | 56.66 | 0.5 |
+| 2025 | 110.89 | 176.16 | 63.2 | 0.5 |
+| 2026 | 112.68 | 152 | 60.92 | 0.5 |
+
+## Manager cards
+
+[Alex B.](manager_cards/alex-b.md) · [Ben H.](manager_cards/ben-h.md) · [Brad C.](manager_cards/brad-c.md) · [Chris H.](manager_cards/chris-h.md) · [Erik P.](manager_cards/erik-p.md) · [Kevin F.](manager_cards/kevin-f.md) · [Marcus H.](manager_cards/marcus-h.md) · [Mark T.](manager_cards/mark-t.md) · [Matty M.](manager_cards/matty-m.md) · [Michael M.](manager_cards/michael-m.md) · [Mike L.](manager_cards/mike-l.md) · [Pat F.](manager_cards/pat-f.md) · [Robert H.](manager_cards/robert-h.md)
