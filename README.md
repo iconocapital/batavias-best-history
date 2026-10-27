@@ -2,7 +2,7 @@
 
 Every season of the Batavia's Best Yahoo fantasy football league, 2005 to today (Yahoo has no 2012 league).
 
-- **[Open the site](index.html)**: champions, all-time standings, head-to-head, every game, luck, streaks, drafts, moves and rivalries. Tables sort by clicking a column.
+- **[Open the site](https://iconocapital.github.io/batavias-best-history/)**: champions, all-time standings, head-to-head, every game, luck, streaks, drafts, moves and rivalries. Tables sort by clicking a column.
 - **[records.md](records.md)**: the same records as a plain page.
 - **[manager_cards/](manager_cards/)**: one page per manager.
 
