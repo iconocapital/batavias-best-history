@@ -16,6 +16,21 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .500 (would beat that share of the league in an average week). Luck: -9.4 wins vs. expected. Weekly top score: 24 times.
 - Moves: 25 trades, 391 adds, $800 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Won the title 2 seasons in a row (2005-2006)
+- 0-3 against Chris H. in the playoffs (2007 Semifinal, 2020 Quarterfinal, 2022 Quarterfinal)
+- Made the playoffs 5 straight seasons (2018-2022)
+- Missed the playoffs 4 straight seasons (2008-2011)
+
+## Advanced
+
+- Championship games: 2-2. #1 seeds: 1 (1 won the title).
+- Playoffs: 6-9 in bracket games (.400 vs .473 in the regular season).
+- Longest playoff run: 5 straight (2018-2022). Longest playoff drought: 4 (2008-2011).
+- Close games (under 3 points): 10-15. Lost with a top-3 score 4 times; won with a bottom-3 score 6 times. Weekly low score 22 times.
+- Scoring index 100.2 (100 = season average), volatility 21.0.
+
 ## Best and worst moments
 
 - **Best season:** 2025 The son rises, 10-4, 1,570.86 PF, finished 2 (Runner-up)

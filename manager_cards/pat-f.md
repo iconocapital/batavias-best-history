@@ -16,6 +16,19 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .466 (would beat that share of the league in an average week). Luck: +5.2 wins vs. expected. Weekly top score: 19 times.
 - Moves: 9 trades, 226 adds, $824 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- 0-3 against Michael M. in the playoffs (2019 Quarterfinal, 2023 Final, 2024 Semifinal)
+- Went 11-2 in 2020 as Dunston Dimes and still didn't win it (finished 3rd)
+
+## Advanced
+
+- Championship games: 0-1. #1 seeds: 1 (0 won the title).
+- Playoffs: 4-7 in bracket games (.364 vs .492 in the regular season).
+- Longest playoff run: 3 straight (2022-2024). Longest playoff drought: 3 (2016-2018).
+- Close games (under 3 points): 5-9. Lost with a top-3 score 8 times; won with a bottom-3 score 6 times. Weekly low score 21 times.
+- Scoring index 98.1 (100 = season average), volatility 19.8.
+
 ## Best and worst moments
 
 - **Best season:** 2020 Dunston Dimes, 11-2, 1,644.42 PF, finished 3 (3rd)

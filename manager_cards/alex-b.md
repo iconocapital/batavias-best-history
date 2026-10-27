@@ -16,6 +16,14 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .488 (would beat that share of the league in an average week). Luck: +4.8 wins vs. expected. Weekly top score: 4 times.
 - Moves: 15 trades, 122 adds, $193 FAAB spent (FAAB seasons 2015 onward).
 
+## Advanced
+
+- Championship games: 1-0. #1 seeds: 1 (1 won the title).
+- Playoffs: 4-3 in bracket games (.571 vs .561 in the regular season).
+- Longest playoff run: 4 straight (2013-2016). Longest playoff drought: 1 (2011).
+- Close games (under 3 points): 1-0. Lost with a top-3 score 1 times; won with a bottom-3 score 5 times. Weekly low score 4 times.
+- Scoring index 99.3 (100 = season average), volatility 20.8.
+
 ## Best and worst moments
 
 - **Best season:** 2014 Lynching, 9-4, 1,507 PF, finished 1 (Champion)

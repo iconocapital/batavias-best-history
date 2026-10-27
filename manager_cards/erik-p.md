@@ -16,6 +16,23 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .543 (would beat that share of the league in an average week). Luck: -8.7 wins vs. expected. Weekly top score: 22 times.
 - Moves: 13 trades, 574 adds, $1,035 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Reached the final in 4 of 5 seasons (2016-2020: 2016, 2017, 2019, 2020)
+- Made the playoffs 7 straight seasons (2019-2025)
+- Lost 9 games while posting a top-3 score that week, most in the league
+- Jumped from 12th to 2nd between 2015 and 2016
+- Fell from 1st to 9th between 2017 and 2018
+- Best game relative to its era: 196.5 in 2006 wk 14, 89% above that season's average
+
+## Advanced
+
+- Championship games: 3-3. #1 seeds: 1 (1 won the title).
+- Playoffs: 15-9 in bracket games (.625 vs .506 in the regular season).
+- Longest playoff run: 7 straight (2019-2025). Longest playoff drought: 1 (2005).
+- Close games (under 3 points): 7-10. Lost with a top-3 score 9 times; won with a bottom-3 score 6 times. Weekly low score 20 times.
+- Scoring index 103.0 (100 = season average), volatility 21.0.
+
 ## Best and worst moments
 
 - **Best season:** 2020 Mel's Meat Curtains, 9-4, 1,744.36 PF, finished 2 (Runner-up)

@@ -16,6 +16,20 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .458 (would beat that share of the league in an average week). Luck: +10.5 wins vs. expected. Weekly top score: 19 times.
 - Moves: 26 trades, 586 adds, $1,072 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Earned the #1 seed 2 times (2007, 2013) without turning one into a title
+- Went 13-2 in 2007 as Hitler's Cowbell and still didn't win it (finished 3rd)
+- Playoff shrinker: 3-7 in playoff games (0.300) vs 0.508 in the regular season
+
+## Advanced
+
+- Championship games: 0-2. #1 seeds: 2 (0 won the title).
+- Playoffs: 3-7 in bracket games (.300 vs .508 in the regular season).
+- Longest playoff run: 2 straight (2017-2018). Longest playoff drought: 3 (2009-2011).
+- Close games (under 3 points): 11-8. Lost with a top-3 score 5 times; won with a bottom-3 score 8 times. Weekly low score 27 times.
+- Scoring index 98.5 (100 = season average), volatility 21.2.
+
 ## Best and worst moments
 
 - **Best season:** 2007 Hitler's Cowbell, 13-2, 2,002.5 PF, finished 3 (3rd)

@@ -16,6 +16,20 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .523 (would beat that share of the league in an average week). Luck: -3.0 wins vs. expected. Weekly top score: 22 times.
 - Moves: 76 trades, 743 adds, $1,087 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Finished 2nd in 4 of 5 seasons (2007-2011: 2007, 2008, 2010, 2011)
+- 1-5 in championship games (lost in 2007, 2008, 2010, 2011, 2022)
+- Missed the playoffs 4 straight seasons (2013-2016)
+
+## Advanced
+
+- Championship games: 1-5. #1 seeds: 1 (0 won the title).
+- Playoffs: 9-8 in bracket games (.529 vs .513 in the regular season).
+- Longest playoff run: 2 straight (2007-2008). Longest playoff drought: 4 (2013-2016).
+- Close games (under 3 points): 12-10. Lost with a top-3 score 8 times; won with a bottom-3 score 7 times. Weekly low score 19 times.
+- Scoring index 101.7 (100 = season average), volatility 20.2.
+
 ## Best and worst moments
 
 - **Best season:** 2008 Abby Scalia's Mom, 11-3, 1,368 PF, finished 2 (Runner-up)

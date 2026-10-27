@@ -16,6 +16,18 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .511 (would beat that share of the league in an average week). Luck: -5.3 wins vs. expected. Weekly top score: 14 times.
 - Moves: 14 trades, 188 adds, $100 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Missed the playoffs 4 straight seasons (2013-2016)
+
+## Advanced
+
+- Championship games: 1-1. #1 seeds: 0 (0 won the title).
+- Playoffs: 3-2 in bracket games (.600 vs .471 in the regular season).
+- Longest playoff run: 2 straight (2010-2011). Longest playoff drought: 4 (2013-2016).
+- Close games (under 3 points): 6-4. Lost with a top-3 score 3 times; won with a bottom-3 score 1 times. Weekly low score 14 times.
+- Scoring index 99.6 (100 = season average), volatility 23.8.
+
 ## Best and worst moments
 
 - **Best season:** 2011 Summit st. Filth, 10-4, 1,707 PF, finished 3 (3rd)

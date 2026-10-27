@@ -16,6 +16,21 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .439 (would beat that share of the league in an average week). Luck: -5.1 wins vs. expected. Weekly top score: 17 times.
 - Moves: 32 trades, 334 adds, $615 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Missed the playoffs 5 straight seasons (2016-2020)
+- Won the 2015 title as the #6 seed (7-6)
+- Best playoff riser: 5-4 in playoff games (0.556) vs 0.414 in the regular season
+- 4-11 in games decided by less than 3 points
+
+## Advanced
+
+- Championship games: 2-0. #1 seeds: 0 (0 won the title).
+- Playoffs: 5-4 in bracket games (.556 vs .414 in the regular season).
+- Longest playoff run: 2 straight (2014-2015). Longest playoff drought: 5 (2016-2020).
+- Close games (under 3 points): 4-11. Lost with a top-3 score 5 times; won with a bottom-3 score 6 times. Weekly low score 27 times.
+- Scoring index 96.2 (100 = season average), volatility 21.6.
+
 ## Best and worst moments
 
 - **Best season:** 2023 Vickie Valencourt, 9-5, 1,606.18 PF, finished 4

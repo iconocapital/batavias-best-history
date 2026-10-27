@@ -16,6 +16,22 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .502 (would beat that share of the league in an average week). Luck: +1.1 wins vs. expected. Weekly top score: 25 times.
 - Moves: 19 trades, 378 adds, $559 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Perfect 3-0 in championship games
+- Finished in the top 3 in 4 of 6 seasons (2016-2021: 2016, 2017, 2018, 2021)
+- Won the 2016 title as the #5 seed (7-6)
+- Won 10 games with a bottom-3 score that week, most in the league
+- 12-5 in games decided by less than 3 points
+
+## Advanced
+
+- Championship games: 3-0. #1 seeds: 3 (1 won the title).
+- Playoffs: 8-6 in bracket games (.571 vs .502 in the regular season).
+- Longest playoff run: 3 straight (2016-2018). Longest playoff drought: 3 (2023-2025).
+- Close games (under 3 points): 12-5. Lost with a top-3 score 6 times; won with a bottom-3 score 10 times. Weekly low score 26 times.
+- Scoring index 99.8 (100 = season average), volatility 22.5.
+
 ## Best and worst moments
 
 - **Best season:** 2021 Gert B Frobe, 11-3, 1,765.94 PF, finished 1 (Champion)

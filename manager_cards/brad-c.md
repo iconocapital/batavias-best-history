@@ -16,6 +16,21 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .536 (would beat that share of the league in an average week). Luck: +4.0 wins vs. expected. Weekly top score: 29 times.
 - Moves: 35 trades, 727 adds, $1,037 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Won the title in 2 of 3 seasons (2007-2009: 2007, 2009)
+- 0-4 against Michael M. in the playoffs (2018 Final, 2020 Quarterfinal, 2023 Semifinal, 2024 Final)
+- Jumped from 11th to 1st between 2008 and 2009
+- Fell from 1st to 11th between 2007 and 2008
+
+## Advanced
+
+- Championship games: 3-2. #1 seeds: 3 (2 won the title).
+- Playoffs: 10-9 in bracket games (.526 vs .552 in the regular season).
+- Longest playoff run: 4 straight (2018-2021). Longest playoff drought: 2 (2010-2011).
+- Close games (under 3 points): 9-6. Lost with a top-3 score 6 times; won with a bottom-3 score 7 times. Weekly low score 23 times.
+- Scoring index 101.5 (100 = season average), volatility 20.9.
+
 ## Best and worst moments
 
 - **Best season:** 2018 the aryan race, 11-2, 1,637.82 PF, finished 2 (Runner-up)

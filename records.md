@@ -1,6 +1,6 @@
 # Batavia's Best: all-time records
 
-Yahoo Fantasy Football, 2005 to 2026 (no 2012 league on Yahoo). 20 complete seasons plus 2026 through week 7.
+Yahoo Fantasy Football, 2005 to 2026 (2012 was played on RTSports; see "The lost season"). 20 complete seasons plus 2026 through week 7.
 
 ## How things are counted
 
@@ -11,6 +11,7 @@ Yahoo Fantasy Football, 2005 to 2026 (no 2012 league on Yahoo). 20 complete seas
 - The season in progress counts through its last final week; it is left out of season awards (titles, finishes, best and worst seasons, PF rank vs finish, droughts).
 - Teams whose manager is unknown still count as opponents and in single-game records, but are credited to no one.
 - A tie counts as half a win in win %.
+- 2012 was played on RTSports, so it has no games here. Its champion (and runner-up, once known) count toward titles and finals; streaks and "back to back" treat 2011 and 2013 as two seasons apart.
 - "Last place" is Yahoo's final rank after consolation games. "Worst record" is the fewest regular-season wins (points for breaks ties), which can be a different team.
 
 - **Unknown managers:** 27 team-seasons from 2005-2010 have no confirmed manager yet. Their games count as opponents and in single-game records but are credited to no one, so career totals for long-time managers may be short for those years.
@@ -34,6 +35,7 @@ Yahoo Fantasy Football, 2005 to 2026 (no 2012 league on Yahoo). 20 complete seas
 | 2015 | Mark T. | Bud Kilmer | 7-6 | 6 | Michael M. | Alex B. | Erik P. |
 | 2014 | Alex B. | Lynching | 9-4 | 1 | Ben H. | Mark T. | Robert H. |
 | 2013 | Ben H. | The Sheriff | 9-4 | 2 | Matty M. | Erik P. | Chris H. |
+| 2012 | Michael M. | (played on RTSports) | on RTSports |  |  |  |  |
 | 2011 | Marcus H. | Gert B Frobe | 10-4 | 3 | Chris H. | Mike L. | Matty M. |
 | 2010 | Mike L. | Summit St. Filth | 9-5 | 3 | Chris H. | Marcus H. | Robert H. |
 | 2009 | Brad C. | the aryan race | 10-4 | 1 | Unknown manager | Ben H. | Matty M. |
@@ -42,13 +44,25 @@ Yahoo Fantasy Football, 2005 to 2026 (no 2012 league on Yahoo). 20 complete seas
 | 2006 | Robert H. | Big Bob | 10-5 | 3 | Erik P. | Kevin F. | Unknown manager |
 | 2005 | Robert H. | blue devils | 9-5 | 1 | Mike L. | Unknown manager | Mark T. |
 
+### The lost season (2012)
+
+In 2012 the league left Yahoo for RTSports. It went about as well as a 1-13 team's playoff push.
+
+RTSports was bad enough that the league came straight back to Yahoo for 2013, and not one box score survived the trip home.
+
+The move also cost Chris H. the commissioner job, and nobody has let Chris H. pick a platform since.
+
+Michael M. won the title anyway. Who lost that final is, like everything else about 2012, lost somewhere on RTSports.
+
+So these records count the 2012 final and nothing else from that season: no games, no standings, no streaks. 2011 and 2013 are treated as two seasons apart.
+
 ## All-time standings
 
 Regular season. Ties count as half a win. Playoff record counts bracket games only.
 
 | Manager | Seasons | Record | Win % | PF | PA | PF/gm | Playoff W-L | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Michael M. | 16 | 127-82 | .608 | 24,489.68 | 22,744.32 | 117.18 | 12-9 | 12 | 3 | 2 | 1 | 0 | 0 |
+| Michael M. | 16 | 127-82 | .608 | 24,489.68 | 22,744.32 | 117.18 | 12-9 | 12 | 4 | 2 | 1 | 0 | 0 |
 | Brad C. | 19 | 139-113 | .552 | 27,674.7 | 26,831.18 | 109.82 | 10-9 | 12 | 3 | 2 | 2 | 1 | 1 |
 | Erik P. | 18 | 121-118 | .506 | 26,888.82 | 26,349.6 | 112.51 | 15-9 | 12 | 3 | 3 | 3 | 1 | 0 |
 | Marcus H. | 19 | 127-126 | .502 | 27,389.12 | 27,427.44 | 108.26 | 8-6 | 9 | 3 | 0 | 3 | 2 | 3 |
@@ -68,10 +82,10 @@ Regular season. Ties count as half a win. Playoff record counts bracket games on
 
 | Manager | Titles | Seasons | Back to back |
 |---|---|---|---|
+| Michael M. | 4 | 2012, 2018, 2023, 2024 | 2023-2024 |
 | Brad C. | 3 | 2007, 2009, 2025 |  |
 | Marcus H. | 3 | 2011, 2016, 2021 |  |
 | Erik P. | 3 | 2017, 2019, 2022 |  |
-| Michael M. | 3 | 2018, 2023, 2024 | 2023-2024 |
 | Robert H. | 2 | 2005, 2006 | 2005-2006 |
 | Mark T. | 2 | 2008, 2015 |  |
 
@@ -92,7 +106,7 @@ Completed seasons played since the last title (or since joining), through 2025.
 | Erik P. | 3 | 2022 | 3 | 8 | 17 |
 | Kevin F. | 0 | never | 3 | 3 | 3 |
 | Alex B. | 1 | 2014 | 2 | 2 | 5 |
-| Michael M. | 3 | 2024 | 1 | 7 | 15 |
+| Michael M. | 4 | 2024 | 1 | 5 | 16 |
 | Brad C. | 3 | 2025 | 0 | 14 | 18 |
 
 ## Head-to-head
@@ -774,6 +788,239 @@ Regular-season points per team per game.
 | 2024 | 113.83 | 156.38 | 56.66 | 0.5 |
 | 2025 | 110.89 | 176.16 | 63.2 | 0.5 |
 | 2026 | 112.68 | 152 | 60.92 | 0.5 |
+
+## Advanced stats
+
+### Storylines
+
+Found automatically from the data, most notable first.
+
+- **Chris H.:** Finished 2nd in 4 of 5 seasons (2007-2011: 2007, 2008, 2010, 2011)
+- **Robert H.:** Won the title 2 seasons in a row (2005-2006)
+- **Michael M.:** Won the title 2 seasons in a row (2023-2024)
+- **Erik P.:** Reached the final in 4 of 5 seasons (2016-2020: 2016, 2017, 2019, 2020)
+- **Chris H.:** 1-5 in championship games (lost in 2007, 2008, 2010, 2011, 2022)
+- **Marcus H.:** Perfect 3-0 in championship games
+- **Brad C.:** Won the title in 2 of 3 seasons (2007-2009: 2007, 2009)
+- **Erik P.:** Made the playoffs 7 straight seasons (2019-2025)
+- **Michael M.:** Made the playoffs 7 straight seasons (2015-2021)
+- **Ben H.:** Missed the playoffs 7 straight seasons (2019-2025)
+- **Brad C.:** 0-4 against Michael M. in the playoffs (2018 Final, 2020 Quarterfinal, 2023 Semifinal, 2024 Final)
+- **Robert H.:** 0-3 against Chris H. in the playoffs (2007 Semifinal, 2020 Quarterfinal, 2022 Quarterfinal)
+- **Pat F.:** 0-3 against Michael M. in the playoffs (2019 Quarterfinal, 2023 Final, 2024 Semifinal)
+- **Marcus H.:** Finished in the top 3 in 4 of 6 seasons (2016-2021: 2016, 2017, 2018, 2021)
+- **Michael M.:** Finished in the top 3 in 4 of 6 seasons (2019-2024: 2019, 2021, 2023, 2024)
+- **Robert H.:** Made the playoffs 5 straight seasons (2018-2022)
+- **Mark T.:** Missed the playoffs 5 straight seasons (2016-2020)
+- **Matty M.:** Earned the #1 seed 2 times (2007, 2013) without turning one into a title
+- **Robert H.:** Missed the playoffs 4 straight seasons (2008-2011)
+- **Mike L.:** Missed the playoffs 4 straight seasons (2013-2016)
+- **Chris H.:** Missed the playoffs 4 straight seasons (2013-2016)
+- **Matty M.:** Went 13-2 in 2007 as Hitler's Cowbell and still didn't win it (finished 3rd)
+- **Kevin F.:** Went 13-2 in 2006 as whosgonnastop85 and still didn't win it (finished 3rd)
+- **Pat F.:** Went 11-2 in 2020 as Dunston Dimes and still didn't win it (finished 3rd)
+- **Mark T.:** Won the 2015 title as the #6 seed (7-6)
+- **Marcus H.:** Won the 2016 title as the #5 seed (7-6)
+- **Michael M.:** Reached the final in 3 of 5 seasons (2015-2019: 2015, 2018, 2019)
+- **Mark T.:** Best playoff riser: 5-4 in playoff games (0.556) vs 0.414 in the regular season
+- **Matty M.:** Playoff shrinker: 3-7 in playoff games (0.300) vs 0.508 in the regular season
+- **Erik P.:** Lost 9 games while posting a top-3 score that week, most in the league
+- **Marcus H.:** Won 10 games with a bottom-3 score that week, most in the league
+- **Erik P.:** Jumped from 12th to 2nd between 2015 and 2016
+- **Brad C.:** Jumped from 11th to 1st between 2008 and 2009
+- **Brad C.:** Fell from 1st to 11th between 2007 and 2008
+- **Erik P.:** Fell from 1st to 9th between 2017 and 2018
+- **Marcus H.:** 12-5 in games decided by less than 3 points
+- **Mark T.:** 4-11 in games decided by less than 3 points
+- **Erik P.:** Best game relative to its era: 196.5 in 2006 wk 14, 89% above that season's average
+
+### Championship games and #1 seeds
+
+Includes the 2012 final.
+
+| Manager | Finals | Finals record | Titles | Lost finals | #1 seeds | #1 seeds that won it all |
+|---|---|---|---|---|---|---|
+| Michael M. | 6 | 4-2 | 2012, 2018, 2023, 2024 | 2015, 2019 | 4 | 2 |
+| Erik P. | 6 | 3-3 | 2017, 2019, 2022 | 2006, 2016, 2020 | 1 | 1 |
+| Chris H. | 6 | 1-5 | 2020 | 2007, 2008, 2010, 2011, 2022 | 1 | 0 |
+| Brad C. | 5 | 3-2 | 2007, 2009, 2025 | 2018, 2024 | 3 | 2 |
+| Robert H. | 4 | 2-2 | 2005, 2006 | 2021, 2025 | 1 | 1 |
+| Marcus H. | 3 | 3-0 | 2011, 2016, 2021 |  | 3 | 1 |
+| Mark T. | 2 | 2-0 | 2008, 2015 |  | 0 | 0 |
+| Mike L. | 2 | 1-1 | 2010 | 2005 | 0 | 0 |
+| Ben H. | 2 | 1-1 | 2013 | 2014 | 1 | 0 |
+| Matty M. | 2 | 0-2 |  | 2013, 2017 | 2 | 0 |
+| Alex B. | 1 | 1-0 | 2014 |  | 1 | 1 |
+| Pat F. | 1 | 0-1 |  | 2023 | 1 | 0 |
+| Kevin F. | 0 | 0-0 |  |  | 1 | 0 |
+
+### Playoffs vs regular season
+
+Bracket games only. Positive = better in the playoffs than the regular season.
+
+| Manager | Playoff record | Playoff % | Regular % | Difference |
+|---|---|---|---|---|
+| Mark T. | 5-4 | .556 | .414 | +0.142 |
+| Mike L. | 3-2 | .600 | .471 | +0.129 |
+| Erik P. | 15-9 | .625 | .506 | +0.119 |
+| Ben H. | 6-5 | .545 | .462 | +0.083 |
+| Marcus H. | 8-6 | .571 | .502 | +0.069 |
+| Chris H. | 9-8 | .529 | .513 | +0.016 |
+| Alex B. | 4-3 | .571 | .561 | +0.010 |
+| Brad C. | 10-9 | .526 | .552 | -0.026 |
+| Michael M. | 12-9 | .571 | .608 | -0.037 |
+| Robert H. | 6-9 | .400 | .473 | -0.073 |
+| Pat F. | 4-7 | .364 | .492 | -0.128 |
+| Matty M. | 3-7 | .300 | .508 | -0.208 |
+| Kevin F. | 0-2 | .000 | .591 | -0.591 |
+
+### Season streaks
+
+Consecutive seasons. A season with an unconfirmed manager, or 2012, breaks a streak.
+
+| Manager | Playoff trips | When | Missed playoffs | When | Winning seasons | When | Losing seasons | When |
+|---|---|---|---|---|---|---|---|---|
+| Erik P. | 7 | 2019-2025 | 1 | 2005 | 2 | 2005-2006 | 1 | 2007 |
+| Michael M. | 7 | 2015-2021 | 1 | 2010 | 4 | 2018-2021 | 1 | 2010 |
+| Robert H. | 5 | 2018-2022 | 4 | 2008-2011 | 3 | 2005-2007 | 3 | 2009-2011 |
+| Brad C. | 4 | 2018-2021 | 2 | 2010-2011 | 3 | 2018-2020 | 1 | 2008 |
+| Alex B. | 4 | 2013-2016 | 1 | 2011 | 4 | 2013-2016 | 1 | 2011 |
+| Marcus H. | 3 | 2016-2018 | 3 | 2023-2025 | 3 | 2016-2018 | 2 | 2007-2008 |
+| Ben H. | 3 | 2016-2018 | 7 | 2019-2025 | 2 | 2013-2014 | 4 | 2018-2021 |
+| Pat F. | 3 | 2022-2024 | 3 | 2016-2018 | 3 | 2013-2015 | 4 | 2016-2019 |
+| Mike L. | 2 | 2010-2011 | 4 | 2013-2016 | 2 | 2010-2011 | 4 | 2013-2016 |
+| Mark T. | 2 | 2014-2015 | 5 | 2016-2020 | 2 | 2008-2009 | 5 | 2016-2020 |
+| Chris H. | 2 | 2007-2008 | 4 | 2013-2016 | 3 | 2006-2008 | 4 | 2013-2016 |
+| Matty M. | 2 | 2017-2018 | 3 | 2009-2011 | 3 | 2017-2019 | 3 | 2009-2011 |
+| Kevin F. | 1 | 2006 | 1 | 2007 | 1 | 2006 | 1 | 2007 |
+
+### Hot stretches
+
+The most of each kind of finish a manager packed into a short run of seasons.
+
+| Manager | What | How many | Seasons | Which |
+|---|---|---|---|---|
+| Brad C. | Top-3 finishes | 3 of 3 | 2023-2025 | 2023, 2024, 2025 |
+| Robert H. | Titles | 2 of 2 | 2005-2006 | 2005, 2006 |
+| Michael M. | Titles | 2 of 2 | 2023-2024 | 2023, 2024 |
+| Erik P. | Finals reached | 4 of 5 | 2016-2020 | 2016, 2017, 2019, 2020 |
+| Erik P. | Top-3 finishes | 4 of 5 | 2016-2020 | 2016, 2017, 2019, 2020 |
+| Chris H. | 2nd-place finishes | 4 of 5 | 2007-2011 | 2007, 2008, 2010, 2011 |
+| Chris H. | Finals reached | 4 of 5 | 2007-2011 | 2007, 2008, 2010, 2011 |
+| Chris H. | Top-3 finishes | 4 of 5 | 2007-2011 | 2007, 2008, 2010, 2011 |
+| Marcus H. | Top-3 finishes | 4 of 6 | 2016-2021 | 2016, 2017, 2018, 2021 |
+| Michael M. | Top-3 finishes | 4 of 6 | 2019-2024 | 2019, 2021, 2023, 2024 |
+| Brad C. | Titles | 2 of 3 | 2007-2009 | 2007, 2009 |
+| Michael M. | Finals reached | 3 of 5 | 2015-2019 | 2015, 2018, 2019 |
+| Erik P. | Titles | 3 of 6 | 2017-2022 | 2017, 2019, 2022 |
+| Ben H. | Top-3 finishes | 3 of 6 | 2009-2014 | 2009, 2013, 2014 |
+| Marcus H. | Titles | 2 of 6 | 2016-2021 | 2016, 2021 |
+
+### Best records that didn't win the title
+
+| Season | Manager | Team | Record | PF | Final rank |
+|---|---|---|---|---|---|
+| 2007 | Matty M. | Hitler's Cowbell | 13-2 | 2,002.5 | 3 |
+| 2006 | Kevin F. | whosgonnastop85 | 13-2 | 1,968.5 | 3 |
+| 2020 | Pat F. | Dunston Dimes | 11-2 | 1,644.42 | 3 |
+| 2018 | Brad C. | the aryan race | 11-2 | 1,637.82 | 2 |
+| 2022 | Marcus H. | Gert B Frobe | 11-3 | 1,699.74 | 4 |
+| 2011 | Michael M. | Getcha Popcorn Ready | 11-3 | 1,615 | 4 |
+| 2008 | Chris H. | Abby Scalia's Mom | 11-3 | 1,368 | 2 |
+| 2015 | Michael M. | Famous Jameis | 10-3 | 1,622.7 | 2 |
+
+### Lowest seeds to win it all
+
+| Season | Champion | Team | Seed | Record |
+|---|---|---|---|---|
+| 2015 | Mark T. | Bud Kilmer | 6 | 7-6 |
+| 2016 | Marcus H. | Gert B Frobe | 5 | 7-6 |
+| 2019 | Erik P. | Mel's Meat Curtains | 5 | 7-6 |
+| 2007 | Brad C. | the aryan race | 4 | 8-7 |
+| 2008 | Mark T. | Th3 CuB3 | 4 | 8-6 |
+
+### Biggest one-year rises
+
+| Manager | Seasons | From | To | Change |
+|---|---|---|---|---|
+| Erik P. | 2015 to 2016 | 12 | 2 | +10 |
+| Brad C. | 2008 to 2009 | 11 | 1 | +10 |
+| Matty M. | 2016 to 2017 | 12 | 2 | +10 |
+| Marcus H. | 2015 to 2016 | 10 | 1 | +9 |
+| Marcus H. | 2020 to 2021 | 10 | 1 | +9 |
+| Erik P. | 2018 to 2019 | 9 | 1 | +8 |
+| Brad C. | 2017 to 2018 | 10 | 2 | +8 |
+| Michael M. | 2022 to 2023 | 9 | 1 | +8 |
+
+### Biggest one-year falls
+
+| Manager | Seasons | From | To | Change |
+|---|---|---|---|---|
+| Brad C. | 2007 to 2008 | 1 | 11 | -10 |
+| Erik P. | 2017 to 2018 | 1 | 9 | -8 |
+| Mark T. | 2015 to 2016 | 1 | 9 | -8 |
+| Chris H. | 2020 to 2021 | 1 | 9 | -8 |
+| Mike L. | 2005 to 2006 | 2 | 9 | -7 |
+| Brad C. | 2016 to 2017 | 3 | 10 | -7 |
+| Matty M. | 2013 to 2014 | 2 | 9 | -7 |
+| Mike L. | 2007 to 2008 | 6 | 12 | -6 |
+
+### Close games, weekly luck and era-adjusted scoring
+
+Close = decided by less than 3 points. Unlucky loss = lost with a top-3 score that week. Lucky win = won with a bottom-3 score. Scoring index = points vs that season's average (100 = average); volatility is how much it swings. Regular season, except close games, which include playoffs.
+
+| Manager | Close games | Unlucky losses | Lucky wins | Weekly high | Weekly low | Scoring index | Volatility |
+|---|---|---|---|---|---|---|---|
+| Kevin F. | 1-4 | 0 | 0 | 10 | 5 | 109.5 | 31.0 |
+| Michael M. | 9-8 | 4 | 3 | 33 | 13 | 105.8 | 21.2 |
+| Erik P. | 7-10 | 9 | 6 | 22 | 20 | 103.0 | 21.0 |
+| Chris H. | 12-10 | 8 | 7 | 22 | 19 | 101.7 | 20.2 |
+| Brad C. | 9-6 | 6 | 7 | 29 | 23 | 101.5 | 20.9 |
+| Robert H. | 10-15 | 4 | 6 | 24 | 22 | 100.2 | 21.0 |
+| Marcus H. | 12-5 | 6 | 10 | 25 | 26 | 99.8 | 22.5 |
+| Mike L. | 6-4 | 3 | 1 | 14 | 14 | 99.6 | 23.8 |
+| Alex B. | 1-0 | 1 | 5 | 4 | 4 | 99.3 | 20.8 |
+| Matty M. | 11-8 | 5 | 8 | 19 | 27 | 98.5 | 21.2 |
+| Pat F. | 5-9 | 8 | 6 | 19 | 21 | 98.1 | 19.8 |
+| Ben H. | 11-7 | 3 | 2 | 14 | 24 | 97.6 | 20.3 |
+| Mark T. | 4-11 | 5 | 6 | 17 | 27 | 96.2 | 21.6 |
+
+### Best games relative to their era
+
+| Season | Week | Manager | Team | Points | Season average | Index |
+|---|---|---|---|---|---|---|
+| 2006 | 14 | Erik P. | TheNigs II | 196.5 | 103.74 | 189.4 |
+| 2006 | 12 | Erik P. | TheNigs II | 191.5 | 103.74 | 184.6 |
+| 2006 | 11 | Kevin F. | whosgonnastop85 | 189.5 | 103.74 | 182.7 |
+| 2013 | 1 | Ben H. | The Sheriff | 187.5 | 106.21 | 176.5 |
+| 2005 | 4 | Unknown manager | The Lavender Ligers | 146.5 | 83.15 | 176.2 |
+| 2008 | 12 | Chris H. | Abby Scalia's Mom | 148 | 84.43 | 175.3 |
+| 2015 | 3 | Marcus H. | Gert B Frobe | 190.7 | 111.37 | 171.2 |
+| 2016 | 1 | Marcus H. | Gert B Frobe | 180.6 | 110.26 | 163.8 |
+| 2009 | 2 | Mark T. | MEATBULL | 147 | 90.29 | 162.8 |
+| 2006 | 8 | Kevin F. | whosgonnastop85 | 168 | 103.74 | 161.9 |
+
+### Most playoff meetings
+
+| Matchup | Meetings | Record (first named) | Games |
+|---|---|---|---|
+| Brad C. vs Erik P. | 6 | 3-3 | 2013 Quarterfinal, 2016 Semifinal, 2019 Quarterfinal, 2023 Quarterfinal, 2024 Semifinal, 2025 Semifinal |
+| Erik P. vs Michael M. | 4 | 3-1 | 2016 Quarterfinal, 2019 Final, 2020 Semifinal, 2021 Quarterfinal |
+| Brad C. vs Michael M. | 4 | 0-4 | 2018 Final, 2020 Quarterfinal, 2023 Semifinal, 2024 Final |
+| Marcus H. vs Robert H. | 3 | 2-1 | 2006 Semifinal, 2018 Quarterfinal, 2021 Final |
+| Chris H. vs Robert H. | 3 | 3-0 | 2007 Semifinal, 2020 Quarterfinal, 2022 Quarterfinal |
+| Erik P. vs Matty M. | 3 | 2-1 | 2013 Semifinal, 2017 Final, 2025 Quarterfinal |
+| Michael M. vs Pat F. | 3 | 3-0 | 2019 Quarterfinal, 2023 Final, 2024 Semifinal |
+| Michael M. vs Robert H. | 3 | 1-2 | 2019 Semifinal, 2021 Semifinal, 2025 Semifinal |
+| Chris H. vs Erik P. | 3 | 1-2 | 2019 Semifinal, 2020 Final, 2022 Final |
+| Erik P. vs Robert H. | 2 | 1-1 | 2006 Final, 2024 Quarterfinal |
+
+Notes:
+
+- Hot windows count seasons on the calendar, so 2012 sits between 2011 and 2013; only its known finalists count there.
+- Seasons where a manager's team is unconfirmed (2005-2010) are unknown and break season streaks.
+- Scoring index = points / that season's average regular-season score x 100 (100 = average). Volatility is its standard deviation.
+- Close games are decided by less than 3 points; consolation games are left out of close-game and playoff counts.
 
 ## Manager cards
 

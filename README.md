@@ -1,8 +1,8 @@
 # Batavia's Best: league history
 
-Every season of the Batavia's Best Yahoo fantasy football league, 2005 to today (Yahoo has no 2012 league).
+Every season of the Batavia's Best Yahoo fantasy football league, 2005 to today. 2012 is the lost season: it was played on RTSports, and only its champion survived the trip back.
 
-- **[Open the site](https://iconocapital.github.io/batavias-best-history/)**: champions, all-time standings, head-to-head, every game, luck, streaks, drafts, moves and rivalries. Tables sort by clicking a column.
+- **[Open the site](https://iconocapital.github.io/batavias-best-history/)**: champions, all-time standings, head-to-head, every game, luck, advanced stats and storylines, streaks, drafts, moves and rivalries. Tables sort by clicking a column.
 - **[records.md](records.md)**: the same records as a plain page.
 - **[manager_cards/](manager_cards/)**: one page per manager.
 

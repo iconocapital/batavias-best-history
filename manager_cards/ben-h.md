@@ -16,6 +16,18 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .463 (would beat that share of the league in an average week). Luck: +1.2 wins vs. expected. Weekly top score: 14 times.
 - Moves: 10 trades, 455 adds, $766 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Missed the playoffs 7 straight seasons (2019-2025)
+
+## Advanced
+
+- Championship games: 1-1. #1 seeds: 1 (0 won the title).
+- Playoffs: 6-5 in bracket games (.545 vs .462 in the regular season).
+- Longest playoff run: 3 straight (2016-2018). Longest playoff drought: 7 (2019-2025).
+- Close games (under 3 points): 11-7. Lost with a top-3 score 3 times; won with a bottom-3 score 2 times. Weekly low score 24 times.
+- Scoring index 97.6 (100 = season average), volatility 20.3.
+
 ## Best and worst moments
 
 - **Best season:** 2016 Peyton on Sunday AM, 10-3, 1,555.8 PF, finished 4

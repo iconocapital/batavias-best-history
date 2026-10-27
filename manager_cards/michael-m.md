@@ -8,13 +8,28 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 
 | Record | Win % | Points for | Points against | PF / game | Playoff record | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 127-82 | .608 | 24,489.68 | 22,744.32 | 117.18 | 12-9 | 12 | 3 | 2 | 1 | 0 | 0 |
+| 127-82 | .608 | 24,489.68 | 22,744.32 | 117.18 | 12-9 | 12 | 4 | 2 | 1 | 0 | 0 |
 
-- Titles: 2018, 2023, 2024
+- Titles: 2012, 2018, 2023, 2024
 - Lost in the final: 2015, 2019
 - Title drought: 1 completed season(s) since the 2024 title
 - All-play: .585 (would beat that share of the league in an average week). Luck: +4.1 wins vs. expected. Weekly top score: 33 times.
 - Moves: 45 trades, 792 adds, $1,085 FAAB spent (FAAB seasons 2015 onward).
+
+## Storylines
+
+- Won the title 2 seasons in a row (2023-2024)
+- Made the playoffs 7 straight seasons (2015-2021)
+- Finished in the top 3 in 4 of 6 seasons (2019-2024: 2019, 2021, 2023, 2024)
+- Reached the final in 3 of 5 seasons (2015-2019: 2015, 2018, 2019)
+
+## Advanced
+
+- Championship games: 4-2. #1 seeds: 4 (2 won the title).
+- Playoffs: 12-9 in bracket games (.571 vs .608 in the regular season).
+- Longest playoff run: 7 straight (2015-2021). Longest playoff drought: 1 (2010).
+- Close games (under 3 points): 9-8. Lost with a top-3 score 4 times; won with a bottom-3 score 3 times. Weekly low score 13 times.
+- Scoring index 105.8 (100 = season average), volatility 21.2.
 
 ## Best and worst moments
 

@@ -16,6 +16,18 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 - All-play: .584 (would beat that share of the league in an average week). Luck: +0.1 wins vs. expected. Weekly top score: 10 times.
 - Moves: 5 trades, 47 adds, $0 FAAB spent (FAAB seasons 2015 onward).
 
+## Storylines
+
+- Went 13-2 in 2006 as whosgonnastop85 and still didn't win it (finished 3rd)
+
+## Advanced
+
+- Championship games: 0-0. #1 seeds: 1 (0 won the title).
+- Playoffs: 0-2 in bracket games (.000 vs .591 in the regular season).
+- Longest playoff run: 1 straight (2006). Longest playoff drought: 1 (2007).
+- Close games (under 3 points): 1-4. Lost with a top-3 score 0 times; won with a bottom-3 score 0 times. Weekly low score 5 times.
+- Scoring index 109.5 (100 = season average), volatility 31.0.
+
 ## Best and worst moments
 
 - **Best season:** 2006 whosgonnastop85, 13-2, 1,968.5 PF, finished 3 (3rd)
