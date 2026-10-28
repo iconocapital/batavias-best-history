@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 143-93 | .606 | 27,329.68 | 25,478.32 | 115.8 | 14-9 | 13 | 4 | 2 | 1 | 0 | 0 |
 
+Ride or die: Antonio Brown, owned in 7 seasons (2011-2021).
+
 Sources: 12 documented, 3 corroborated and 3 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2012, 2018, 2023, 2024

@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 144-150 | .490 | 30,116.84 | 30,221.06 | 107.56 | 6-10 | 12 | 2 | 2 | 1 | 3 | 2 |
 
+Ride or die: Josh Allen, owned in 7 seasons (2018-2026).
+
 Sources: 12 documented, 0 corroborated and 10 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2005, 2006

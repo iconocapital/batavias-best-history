@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 76-89 | .461 | 14,987.54 | 15,666.8 | 99.26 | 3-2 | 3 | 1 | 1 | 1 | 1 | 1 |
 
+Ride or die: Cam Newton, owned in 5 seasons (2012-2016).
+
 Sources: 2 documented, 3 corroborated and 7 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2010

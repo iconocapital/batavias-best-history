@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 139-154-1 | .474 | 29,602.52 | 30,144.18 | 105.72 | 6-7 | 8 | 1 | 1 | 2 | 1 | 1 |
 
+Ride or die: DeSean Jackson, owned in 7 seasons (2009-2018).
+
 Sources: 13 documented, 0 corroborated and 9 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2013

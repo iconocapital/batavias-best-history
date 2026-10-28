@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 152-128 | .543 | 30,409.7 | 29,665.18 | 108.61 | 11-10 | 13 | 3 | 2 | 2 | 1 | 1 |
 
+Ride or die: Josh Gordon, owned in 5 seasons (2013-2019).
+
 Sources: 12 documented, 7 corroborated and 2 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2007, 2009, 2025

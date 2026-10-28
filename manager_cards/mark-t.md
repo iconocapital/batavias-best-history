@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 112-167 | .401 | 27,690.38 | 28,654.02 | 104.49 | 5-4 | 6 | 2 | 0 | 1 | 3 | 5 |
 
+Ride or die: Aaron Rodgers, owned in 8 seasons (2011-2025).
+
 Sources: 13 documented, 2 corroborated and 6 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2008, 2015

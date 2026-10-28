@@ -802,6 +802,50 @@ Regular-season points per team per game.
 | 2025 | 110.89 | 176.16 | 63.2 | 0.5 |
 | 2026 | 112.68 | 152 | 60.92 | 0.5 |
 
+## Weird but true
+
+Odd facts from 21 seasons, computed from the data.
+
+- **The #1 pick is cursed** (0 for 20): The team with the first overall pick has won the title 0 times in 20 drafts. Closest calls: runner-up Erik P. 2009, Matty M. 2013, Robert H. 2025. Robert H. has picked first 4 times.
+- **Pick 9 is the golden ticket** (5 titles): Teams drafting 9th have won 5 titles (2010, 2014, 2017, 2018, 2019). No other slot has more than 3.
+- **Robert can't quit Josh Allen** (6x): Robert H. has drafted Josh Allen 6 times, starting with a round-15 pick in 2018.
+- **Last place is a launchpad** (4 times): A last-place team has reached the very next final 4 times: Erik P. (2015 to 2016, runner-up); Matty M. (2016 to 2017, runner-up); Brad C. (2017 to 2018, runner-up); Marcus H. (2020 to 2021, champion). Marcus H. went from last to champion.
+- **Champions who got outscored** (4 champs): 4 champions gave up more points than they scored in the regular season: Mark T. 2008 (-5.0), Erik P. 2019 (-20.1), Chris H. 2020 (-49.2), Erik P. 2022 (-93.5). Erik P. did it twice.
+- **Won with the worst score in the league** (76 pts): Erik P. won 2012 week 3 with 76, the lowest score in the league that week. It ended 76-76 and went to a tiebreaker.
+- **The most average man alive** (-0.2): Chris H.'s career point differential after 280 regular-season games: 30,525.72 scored, 30,525.92 allowed.
+- **A season that went nowhere** (-0.32): Marcus H. in 2015: 1,491.98 points scored, 1,492.30 allowed.
+- **Perfectly balanced** (15-15): Ben H. and Chris H. have played 30 times. Neither has won more.
+- **Never once** (0-7): Kevin F. played Matty M. 7 times and lost every one.
+- **Get a room** (20 trades): Brad C. and Chris H. have traded with each other 20 times, more than any other pair.
+- **Won't pick up the phone** (0 with 5): Pat F. has never made a trade with Ben H., Brad C., Erik P., Matty M. or Robert H.. That's 5 of the other 9 current managers.
+- **Week 6 belongs to Marcus** (18-3): Marcus H. is 18-3 all time in week 6.
+- **Mark should skip week 6** (4-17): Mark T. is 4-17 all time in week 6.
+- **Allergic to week 1** (6-15): Brad C. is 6-15 in season openers.
+- **Waiver addict** (84 adds): Chris H. made 84 adds in 2007, the most by anyone in a single season.
+- **Catch and release** (5x): Michael M. picked up Chase Edmonds 5 separate times in 2019.
+- **Ride or die** (8 seasons): Mark T. has owned Aaron Rodgers in 8 different seasons (2011-2025), more than anyone has owned any one player.
+
+### Ride or die
+
+The player each manager has owned in the most seasons: drafted, kept, added or traded for. Kickers and defenses don't count.
+
+| Manager | Player | Seasons owned | Span | Times acquired | Tied with |
+|---|---|---|---|---|---|
+| Mark T. | Aaron Rodgers | 8 | 2011-2025 | 8 |  |
+| Ben H. | DeSean Jackson | 7 | 2009-2018 | 8 |  |
+| Chris H. | Lamar Jackson | 7 | 2018-2026 | 7 |  |
+| Michael M. | Antonio Brown | 7 | 2011-2021 | 7 |  |
+| Robert H. | Josh Allen | 7 | 2018-2026 | 8 |  |
+| Erik P. | Aaron Rodgers | 6 | 2008-2022 | 6 |  |
+| Marcus H. | DeAngelo Williams | 6 | 2006-2016 | 6 |  |
+| Matty M. | Jordy Nelson | 6 | 2013-2018 | 6 | LeGarrette Blount |
+| Brad C. | Josh Gordon | 5 | 2013-2019 | 6 | Matthew Stafford, Rob Gronkowski, Vernon Davis |
+| Mike L. | Cam Newton | 5 | 2012-2016 | 5 |  |
+| Pat F. | Le'Veon Bell | 5 | 2013-2017 | 5 |  |
+| Alex B. | Victor Cruz | 4 | 2011-2014 | 4 |  |
+| Chris W. | Jerry Porter | 3 | 2006-2008 | 3 |  |
+| Kevin F. | Philip Rivers | 3 | 2007-2010 | 3 | Chris Brown, Chad Johnson |
+
 ## Advanced stats
 
 ### Storylines

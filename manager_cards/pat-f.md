@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 120-115-1 | .511 | 25,295.22 | 25,527.96 | 107.18 | 4-9 | 9 | 0 | 1 | 1 | 2 | 2 |
 
+Ride or die: Le'Veon Bell, owned in 5 seasons (2013-2017).
+
 Sources: 13 documented, 2 corroborated and 3 recalled seasons (see records.md, How sure we are).
 
 - Titles: none yet

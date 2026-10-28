@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 43-43 | .500 | 7,357.5 | 7,222 | 102.19 | 0-2 | 2 | 0 | 0 | 2 | 0 | 0 |
 
+Ride or die: Philip Rivers, owned in 3 seasons (2007-2010).
+
 Sources: 1 documented, 0 corroborated and 5 recalled seasons (see records.md, How sure we are).
 
 - Titles: none yet
