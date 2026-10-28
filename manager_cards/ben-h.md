@@ -1,20 +1,20 @@
 # Ben H.
 
-Seasons: 2006 to 2026 (17 seasons, including 2026 in progress).
+Seasons: 2005 to 2026 (22 seasons, including 2026 in progress).
 
-Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
+Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
 
 ## Career totals
 
 | Record | Win % | Points for | Points against | PF / game | Playoff record | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 103-120-1 | .462 | 23,906.02 | 24,456.18 | 106.72 | 6-5 | 6 | 1 | 1 | 1 | 1 | 1 |
+| 139-154-1 | .474 | 30,941.52 | 31,410.68 | 105.24 | 6-7 | 8 | 1 | 1 | 2 | 1 | 1 |
 
 - Titles: 2013
 - Lost in the final: 2014
 - Title drought: 12 completed season(s) since the 2013 title
-- All-play: .463 (would beat that share of the league in an average week). Luck: +1.2 wins vs. expected. Weekly top score: 14 times.
-- Moves: 10 trades, 455 adds, $766 FAAB spent (FAAB seasons 2015 onward).
+- All-play: .484 (would beat that share of the league in an average week). Luck: -1.5 wins vs. expected. Weekly top score: 24 times.
+- Moves: 17 trades, 589 adds, $766 FAAB spent (FAAB seasons 2015 onward).
 
 ## Storylines
 
@@ -23,23 +23,23 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 ## Advanced
 
 - Championship games: 1-1. #1 seeds: 1 (0 won the title).
-- Playoffs: 6-5 in bracket games (.545 vs .462 in the regular season).
-- Longest playoff run: 3 straight (2016-2018). Longest playoff drought: 7 (2019-2025).
-- Close games (under 3 points): 11-7. Lost with a top-3 score 3 times; won with a bottom-3 score 2 times. Weekly low score 24 times.
-- Scoring index 97.6 (100 = season average), volatility 20.3.
+- Playoffs: 6-7 in bracket games (.462 vs .474 in the regular season).
+- Longest playoff run: 3 straight (2012-2014). Longest playoff drought: 7 (2019-2025).
+- Close games (under 3 points): 11-12. Lost with a top-3 score 7 times; won with a bottom-3 score 3 times. Weekly low score 31 times.
+- Scoring index 99.3 (100 = season average), volatility 21.4.
 
 ## Best and worst moments
 
 - **Best season:** 2016 Peyton on Sunday AM, 10-3, 1,555.8 PF, finished 4
 - **Worst season:** 2024 Love2Chase W’s, 3-11, 1,478.5 PF, finished 7
 - **Highest score:** 2013 wk 1 (Regular): 187.5-109 vs Pat F. (Jacksonville Jaguars), as The Sheriff
-- **Lowest score:** 2015 wk 1 (Regular): 48.8-126.04 vs Erik P. (Mel's Meat Curtains), as Sheriff's Last Stand
+- **Lowest score:** 2008 wk 2 (Regular): 48-102 vs Mark T. (Th3 CuB3), as PLaY MaKeRs
 - **Biggest win:** 2021 wk 17 (Consolation): 167.24-81.06 vs Pat F. (Dunston’s Dead), as Born Tua Be Wild
 - **Worst loss:** 2015 wk 1 (Regular): 48.8-126.04 vs Erik P. (Mel's Meat Curtains), as Sheriff's Last Stand
 - **Closest win:** 2019 wk 9 (Regular): 106.7-106.34 vs Brad C. (the aryan race), as More Bell Cow
 - **Closest loss:** 2016 wk 6 (Regular): 110.92-110.96 vs Erik P. (Mel's Meat Curtains), as Peyton on Sunday AM
-- **Longest win streak:** 5 (2015 wk 12 to 2016 wk 3)
-- **Longest losing streak:** 8 (2023 wk 13 to 2024 wk 6)
+- **Longest win streak:** 5 (2008 wk 13 to 2009 wk 3)
+- **Longest losing streak:** 10 (2010 wk 12 to 2011 wk 7)
 
 ## Top rivals
 
@@ -47,29 +47,30 @@ Regular-season and playoff games.
 
 | Most played | Games | Record | Points for | Points against |
 |---|---|---|---|---|
-| Chris H. | 25 | 14-11 | 2,855.94 | 2,683.08 |
-| Erik P. | 25 | 10-15 | 2,803.58 | 2,922.32 |
-| Marcus H. | 25 | 9-16 | 2,635.74 | 2,693.78 |
+| Erik P. | 34 | 13-21 | 3,718.08 | 3,877.82 |
+| Robert H. | 33 | 15-18 | 3,339.32 | 3,565.54 |
+| Marcus H. | 32 | 12-20 | 3,335.24 | 3,434.78 |
 
-- **Owns:** Pat F., 13-7 (.650)
-- **Nemesis:** Brad C., 6-17 (.261)
+- **Owns:** Mike L., 11-7 (.611)
+- **Nemesis:** Marcus H., 12-20 (.375)
 
 ### Full head-to-head
 
 | Opponent | Record | Win % | Playoff games |
 |---|---|---|---|
-| Alex B. | 3-4 | .429 | 2 |
-| Brad C. | 6-17 | .261 | 1 |
-| Chris H. | 14-11 | .560 | 1 |
-| Erik P. | 10-15 | .400 | 1 |
-| Kevin F. | 0-1 | .000 | 0 |
-| Marcus H. | 9-16 | .360 | 2 |
-| Mark T. | 13-11 | .542 | 1 |
-| Matty M. | 9-11 | .450 | 2 |
-| Michael M. | 7-12 | .368 | 0 |
-| Mike L. | 5-2 | .714 | 0 |
-| Pat F. | 13-7 | .650 | 0 |
-| Robert H. | 12-13 | .480 | 0 |
+| Alex B. | 4-5 | .444 | 3 |
+| Brad C. | 12-18 | .400 | 1 |
+| Chris H. | 15-15 | .500 | 1 |
+| Chris W. | 4-0 | 1.000 | 0 |
+| Erik P. | 13-21 | .382 | 2 |
+| Kevin F. | 3-4 | .429 | 0 |
+| Marcus H. | 12-20 | .375 | 2 |
+| Mark T. | 16-15 | .516 | 1 |
+| Matty M. | 11-14 | .440 | 2 |
+| Michael M. | 10-13 | .435 | 0 |
+| Mike L. | 11-7 | .611 | 1 |
+| Pat F. | 14-9-1 | .604 | 0 |
+| Robert H. | 15-18 | .455 | 0 |
 
 ## Season by season
 
@@ -89,9 +90,14 @@ Regular-season and playoff games.
 | 2015 | Sheriff's Last Stand | 5-8 | 1,336.7 | 10 | 8 |  | -0.27 |
 | 2014 | The Sheriff | 7-6 | 1,417.5 | 4 | 2 | Runner-up | -0.18 |
 | 2013 | The Sheriff | 9-4 | 1,540.5 | 1 | 1 | Champion | +0.95 |
+| 2012 | Get Manninghandled | 6-7 | 1,423 | 3 | 6 |  | -2.14 |
 | 2011 | Big Ben's House | 5-9 | 1,305.5 | 9 | 9 |  | -0.27 |
+| 2010 | We Do it for Dougie | 7-7 | 1,399.5 | 9 | 7 |  | +0.09 |
 | 2009 | Desean and Juice? | 8-5-1 | 1,348 | 3 | 3 | 3rd | -0.27 |
+| 2008 | PLaY MaKeRs | 8-6 | 1,131 | 8 | 5 |  | +1.64 |
+| 2007 | PLaYMaKeRs | 7-8 | 1,743 | 2 | 7 |  | -1.00 |
 | 2006 | The Yeti's | 8-7 | 1,600.5 | 6 | 6 |  | -0.33 |
+| 2005 | The Lavender Ligers | 8-6 | 1,339 | 2 | 3 | 3rd | -1.28 |
 
 ## First-round picks
 
@@ -112,7 +118,11 @@ Regular-season and playoff games.
 | 2014 | 12 | Peyton Manning |  | yes |
 | 2013 | 8 | Peyton Manning |  |  |
 | 2011 | 6 | Maurice Jones-Drew |  |  |
+| 2010 | 6 | Michael Turner |  |  |
 | 2009 | 4 | Maurice Jones-Drew |  |  |
+| 2008 | 1 | LaDainian Tomlinson |  |  |
+| 2007 | 3 | Peyton Manning |  |  |
 | 2006 | 4 | Peyton Manning |  |  |
+| 2005 | 9 | Edgerrin James |  |  |
 
 _Data through the 2025 season, plus 2026 through week 7. Counting rules are in [records.md](../records.md)._

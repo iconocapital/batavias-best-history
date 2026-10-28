@@ -1,20 +1,20 @@
 # Michael M.
 
-Seasons: 2010 to 2026 (16 seasons, including 2026 in progress).
+Seasons: 2009 to 2026 (18 seasons, including 2026 in progress).
 
-Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
+Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
 
 ## Career totals
 
 | Record | Win % | Points for | Points against | PF / game | Playoff record | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 127-82 | .608 | 24,489.68 | 22,744.32 | 117.18 | 12-9 | 12 | 4 | 2 | 1 | 0 | 0 |
+| 143-93 | .606 | 27,329.68 | 25,478.32 | 115.8 | 14-9 | 13 | 4 | 2 | 1 | 0 | 0 |
 
 - Titles: 2012, 2018, 2023, 2024
 - Lost in the final: 2015, 2019
 - Title drought: 1 completed season(s) since the 2024 title
-- All-play: .585 (would beat that share of the league in an average week). Luck: +4.1 wins vs. expected. Weekly top score: 33 times.
-- Moves: 45 trades, 792 adds, $1,085 FAAB spent (FAAB seasons 2015 onward).
+- All-play: .591 (would beat that share of the league in an average week). Luck: +3.0 wins vs. expected. Weekly top score: 38 times.
+- Moves: 50 trades, 827 adds, $1,085 FAAB spent (FAAB seasons 2015 onward).
 
 ## Storylines
 
@@ -26,20 +26,20 @@ Note: 27 team-seasons from 2005-2010 still have no confirmed manager. Any of the
 ## Advanced
 
 - Championship games: 4-2. #1 seeds: 4 (2 won the title).
-- Playoffs: 12-9 in bracket games (.571 vs .608 in the regular season).
-- Longest playoff run: 7 straight (2015-2021). Longest playoff drought: 1 (2010).
-- Close games (under 3 points): 9-8. Lost with a top-3 score 4 times; won with a bottom-3 score 3 times. Weekly low score 13 times.
-- Scoring index 105.8 (100 = season average), volatility 21.2.
+- Playoffs: 14-9 in bracket games (.609 vs .606 in the regular season).
+- Longest playoff run: 7 straight (2015-2021). Longest playoff drought: 2 (2009-2010).
+- Close games (under 3 points): 9-9. Lost with a top-3 score 4 times; won with a bottom-3 score 3 times. Weekly low score 14 times.
+- Scoring index 106.3 (100 = season average), volatility 21.4.
 
 ## Best and worst moments
 
 - **Best season:** 2018 Tea Kittle, 11-2, 1,788.44 PF, finished 1 (Champion)
 - **Worst season:** 2022 Roger, 5-9, 1,542.98 PF, finished 9
 - **Highest score:** 2023 wk 12 (Regular): 180.7-109.72 vs Marcus H. (Gert B Frobe), as Roger
-- **Lowest score:** 2011 wk 5 (Regular): 57-120.5 vs Pat F. (Mr. Chimpo), as Getcha Popcorn Ready
+- **Lowest score:** 2009 wk 6 (Regular): 53-117 vs Chris H. (Mike Turners Vagina), as Not so Bad
 - **Biggest win:** 2018 wk 9 (Regular): 164.68-91.72 vs Robert H. (Scared HJs), as Tea Kittle
 - **Worst loss:** 2022 wk 11 (Regular): 76.9-155.5 vs Marcus H. (Gert B Frobe), as Roger
-- **Closest win:** 2021 wk 17 (Consolation: 3rd Place Game): 121.56-121.5 vs Brad C. (Gibby Smalls), as Roger
+- **Closest win:** 2012 wk 15 (Playoff: Semifinal): 113-113 vs Brad C. (The Aryan Race), as Corn on the Cobb
 - **Closest loss:** 2022 wk 5 (Regular): 119.66-119.74 vs Robert H. (Josh's Nut Farm), as Roger
 - **Longest win streak:** 9 (2019 wk 11 to 2020 wk 6)
 - **Longest losing streak:** 4 (2010 wk 2 to 2010 wk 5)
@@ -50,28 +50,29 @@ Regular-season and playoff games.
 
 | Most played | Games | Record | Points for | Points against |
 |---|---|---|---|---|
-| Brad C. | 28 | 17-11 | 3,401.36 | 3,155.7 |
-| Robert H. | 26 | 15-11 | 3,075.9 | 2,830.56 |
-| Mark T. | 25 | 19-6 | 3,029.46 | 2,642.32 |
+| Brad C. | 31 | 20-11 | 3,756.36 | 3,486.7 |
+| Mark T. | 29 | 22-7 | 3,458.96 | 3,059.82 |
+| Robert H. | 29 | 16-13 | 3,355.9 | 3,120.56 |
 
-- **Owns:** Mark T., 19-6 (.760)
-- **Nemesis:** Pat F., 10-13 (.435)
+- **Owns:** Mark T., 22-7 (.759)
+- **Nemesis:** Pat F., 12-15 (.444)
 
 ### Full head-to-head
 
 | Opponent | Record | Win % | Playoff games |
 |---|---|---|---|
-| Alex B. | 4-3 | .571 | 2 |
-| Ben H. | 12-7 | .632 | 0 |
-| Brad C. | 17-11 | .607 | 4 |
-| Chris H. | 14-7 | .667 | 1 |
-| Erik P. | 12-12 | .500 | 4 |
-| Marcus H. | 15-7 | .682 | 1 |
-| Mark T. | 19-6 | .760 | 2 |
-| Matty M. | 14-8 | .636 | 1 |
-| Mike L. | 4-2 | .667 | 0 |
-| Pat F. | 10-13 | .435 | 3 |
-| Robert H. | 15-11 | .577 | 3 |
+| Alex B. | 5-5 | .500 | 3 |
+| Ben H. | 13-10 | .565 | 0 |
+| Brad C. | 20-11 | .645 | 5 |
+| Chris H. | 15-8 | .652 | 1 |
+| Erik P. | 15-13 | .536 | 4 |
+| Kevin F. | 0-2 | .000 | 0 |
+| Marcus H. | 17-8 | .680 | 1 |
+| Mark T. | 22-7 | .759 | 2 |
+| Matty M. | 16-8 | .667 | 1 |
+| Mike L. | 6-2 | .750 | 0 |
+| Pat F. | 12-15 | .444 | 3 |
+| Robert H. | 16-13 | .552 | 3 |
 
 ## Season by season
 
@@ -91,8 +92,10 @@ Regular-season and playoff games.
 | 2015 | Famous Jameis | 10-3 | 1,622.7 | 1 | 2 | Runner-up | +0.73 |
 | 2014 | Famous Jameis | 5-8 | 1,332 | 9 | 8 |  | -0.73 |
 | 2013 | Dear Leader | 7-6 | 1,410.5 | 6 | 6 |  | -0.05 |
+| 2012 | Corn on the Cobb | 9-4 | 1,532 | 1 | 1 | Champion | -0.55 |
 | 2011 | Getcha Popcorn Ready | 11-3 | 1,615 | 4 | 4 |  | +0.91 |
 | 2010 | I'm a Man I'm Forty | 6-8 | 1,310 | 10 | 9 |  | +0.82 |
+| 2009 | Not so Bad | 7-7 | 1,308 | 6 | 6 |  | -0.55 |
 
 ## First-round picks
 
@@ -114,5 +117,6 @@ Regular-season and playoff games.
 | 2013 | 12 | Steven Jackson |  |  |
 | 2011 | 4 | Ray Rice |  |  |
 | 2010 | 8 | Steven Jackson |  |  |
+| 2009 | 2 | Matt Forte |  |  |
 
 _Data through the 2025 season, plus 2026 through week 7. Counting rules are in [records.md](../records.md)._
