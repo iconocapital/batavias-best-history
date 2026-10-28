@@ -8,12 +8,14 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 
 | Record | Win % | Points for | Points against | PF / game | Playoff record | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 76-89 | .461 | 16,272.04 | 16,750.3 | 98.62 | 3-2 | 3 | 1 | 1 | 1 | 1 | 1 |
+| 76-89 | .461 | 14,987.54 | 15,666.8 | 99.26 | 3-2 | 3 | 1 | 1 | 1 | 1 | 1 |
+
+Sources: 2 documented, 3 corroborated and 7 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2010
 - Lost in the final: 2005
 - Title drought: 6 completed season(s) since the 2010 title
-- All-play: .484 (would beat that share of the league in an average week). Luck: -3.8 wins vs. expected. Weekly top score: 15 times.
+- All-play: .474 (would beat that share of the league in an average week). Luck: -4.3 wins vs. expected. Weekly top score: 12 times.
 - Moves: 17 trades, 219 adds, $100 FAAB spent (FAAB seasons 2015 onward).
 
 ## Storylines
@@ -25,8 +27,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 - Championship games: 1-1. #1 seeds: 0 (0 won the title).
 - Playoffs: 3-2 in bracket games (.600 vs .461 in the regular season).
 - Longest playoff run: 2 straight (2010-2011). Longest playoff drought: 5 (2012-2016).
-- Close games (under 3 points): 7-4. Lost with a top-3 score 4 times; won with a bottom-3 score 4 times. Weekly low score 17 times.
-- Scoring index 98.0 (100 = season average), volatility 23.2.
+- Close games (under 3 points): 7-4. Lost with a top-3 score 4 times; won with a bottom-3 score 3 times. Weekly low score 17 times.
+- Scoring index 96.9 (100 = season average), volatility 22.9.
 
 ## Best and worst moments
 
@@ -47,8 +49,8 @@ Regular-season and playoff games.
 
 | Most played | Games | Record | Points for | Points against |
 |---|---|---|---|---|
-| Robert H. | 19 | 11-8 | 1,867.54 | 1,902.88 |
-| Ben H. | 18 | 7-11 | 1,631.38 | 1,742.66 |
+| Robert H. | 19 | 11-8 | 1,699.54 | 1,724.88 |
+| Ben H. | 18 | 7-11 | 1,320.38 | 1,517.16 |
 | Brad C. | 16 | 8-8 | 1,538.68 | 1,631.06 |
 
 - **Owns:** Matty M., 8-2 (.800)
@@ -87,7 +89,7 @@ Regular-season and playoff games.
 | 2008 | The Big Mike's | 4-10 | 1,131 | 9 | 12 | Last | -2.50 |
 | 2007 | The Lynn's | 8-7 | 1,645 | 6 | 6 |  | +0.50 |
 | 2006 | jimmy gon win | 4-11 | 1,287.5 | 9 | 9 |  | -1.00 |
-| 2005 | TheXtraLargeMikey's | 9-5 | 1,284.5 | 3 | 2 | Runner-up | +0.50 |
+| 2005 | TheXtraLargeMikey's | 9-5 | 1,284.5 |  | 2 | Runner-up | n/a |
 
 ## First-round picks
 

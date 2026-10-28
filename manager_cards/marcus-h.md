@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 137-143 | .489 | 29,831.12 | 30,084.44 | 106.54 | 8-6 | 9 | 3 | 0 | 3 | 2 | 3 |
 
+Sources: 12 documented, 4 corroborated and 5 recalled seasons (see records.md, How sure we are).
+
 - Titles: 2011, 2016, 2021
 - Lost in the final: never
 - Title drought: 4 completed season(s) since the 2021 title

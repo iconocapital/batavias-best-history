@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 133-132 | .502 | 28,098.72 | 28,556.94 | 106.03 | 3-7 | 7 | 0 | 2 | 2 | 5 | 3 |
 
+Sources: 12 documented, 2 corroborated and 6 recalled seasons (see records.md, How sure we are).
+
 - Titles: none yet
 - Lost in the final: 2013, 2017
 - Title drought: 19 completed season(s) since joining, with no title yet

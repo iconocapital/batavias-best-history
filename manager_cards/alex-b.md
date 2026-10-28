@@ -10,6 +10,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 45-34 | .570 | 8,345.96 | 8,094.8 | 105.65 | 6-4 | 5 | 1 | 1 | 1 | 0 | 0 |
 
+Sources: 2 documented, 0 corroborated and 4 recalled seasons (see records.md, How sure we are).
+
 - Titles: 2014
 - Lost in the final: 2012
 - Title drought: 2 completed season(s) since the 2014 title

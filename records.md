@@ -12,6 +12,7 @@ Yahoo Fantasy Football, 2005 to 2026 (2012 was played on RTSports; see "The lost
 - Teams whose manager is unknown still count as opponents and in single-game records, but are credited to no one.
 - A tie counts as half a win in win %.
 - 2012 was played on RTSports. Its games, standings and trades come from the league's saved RTSports exports and count like any other season; it has no draft order, so it has no first-round picks.
+- 2005 counts for wins, losses, standings, titles, head-to-head records and streaks, but not for anything built on points (career points, single-game records, all-play and luck, points rank vs finish): four of its managers are unknown and the league's settings weren't set up well yet.
 - "Last place" is Yahoo's final rank after consolation games. "Worst record" is the fewest regular-season wins (points for breaks ties), which can be a different team.
 
 - **Unknown managers:** 5 team-seasons from 2005-2010 have no confirmed manager yet. Their games count as opponents and in single-game records but are credited to no one, so career totals for long-time managers may be short for those years.
@@ -64,17 +65,17 @@ Regular season. Ties count as half a win. Playoff record counts bracket games on
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Michael M. | 18 | 143-93 | .606 | 27,329.68 | 25,478.32 | 115.8 | 14-9 | 13 | 4 | 2 | 1 | 0 | 0 |
 | Brad C. | 21 | 152-128 | .543 | 30,409.7 | 29,665.18 | 108.61 | 11-10 | 13 | 3 | 2 | 2 | 1 | 1 |
-| Erik P. | 22 | 154-140 | .524 | 32,374.82 | 31,318.6 | 110.12 | 16-11 | 14 | 3 | 4 | 3 | 1 | 0 |
+| Erik P. | 22 | 154-140 | .524 | 31,214.82 | 30,177.1 | 111.48 | 16-11 | 14 | 3 | 4 | 3 | 1 | 0 |
 | Marcus H. | 21 | 137-143 | .489 | 29,831.12 | 30,084.44 | 106.54 | 8-6 | 9 | 3 | 0 | 3 | 2 | 3 |
-| Robert H. | 22 | 144-150 | .490 | 31,482.84 | 31,302.56 | 107.08 | 6-10 | 12 | 2 | 2 | 1 | 3 | 2 |
-| Mark T. | 21 | 112-167 | .401 | 28,689.38 | 29,895.02 | 102.83 | 5-4 | 6 | 2 | 0 | 1 | 3 | 5 |
+| Robert H. | 22 | 144-150 | .490 | 30,116.84 | 30,221.06 | 107.56 | 6-10 | 12 | 2 | 2 | 1 | 3 | 2 |
+| Mark T. | 21 | 112-167 | .401 | 27,690.38 | 28,654.02 | 104.49 | 5-4 | 6 | 2 | 0 | 1 | 3 | 5 |
 | Alex B. | 6 | 45-34 | .570 | 8,345.96 | 8,094.8 | 105.65 | 6-4 | 5 | 1 | 1 | 1 | 0 | 0 |
 | Chris H. | 21 | 145-135 | .518 | 30,525.72 | 30,525.92 | 109.02 | 9-9 | 10 | 1 | 5 | 1 | 1 | 2 |
-| Ben H. | 22 | 139-154-1 | .474 | 30,941.52 | 31,410.68 | 105.24 | 6-7 | 8 | 1 | 1 | 2 | 1 | 1 |
-| Mike L. | 12 | 76-89 | .461 | 16,272.04 | 16,750.3 | 98.62 | 3-2 | 3 | 1 | 1 | 1 | 1 | 1 |
+| Ben H. | 22 | 139-154-1 | .474 | 29,602.52 | 30,144.18 | 105.72 | 6-7 | 8 | 1 | 1 | 2 | 1 | 1 |
+| Mike L. | 12 | 76-89 | .461 | 14,987.54 | 15,666.8 | 99.26 | 3-2 | 3 | 1 | 1 | 1 | 1 | 1 |
 | Pat F. | 18 | 120-115-1 | .511 | 25,295.22 | 25,527.96 | 107.18 | 4-9 | 9 | 0 | 1 | 1 | 2 | 2 |
 | Matty M. | 20 | 133-132 | .502 | 28,098.72 | 28,556.94 | 106.03 | 3-7 | 7 | 0 | 2 | 2 | 5 | 3 |
-| Kevin F. | 6 | 43-43 | .500 | 8,394 | 8,354 | 97.6 | 0-2 | 2 | 0 | 0 | 2 | 0 | 0 |
+| Kevin F. | 6 | 43-43 | .500 | 7,357.5 | 7,222 | 102.19 | 0-2 | 2 | 0 | 0 | 2 | 0 | 0 |
 | Chris W. | 3 | 15-29 | .341 | 3,600 | 4,254 | 81.82 | 0-0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 ## Titles
@@ -155,16 +156,16 @@ Every game type counts here. "Game" says regular season, playoff or consolation.
 
 | Season | Week | Game | Manager | Team | Points | Opponent | Opp points | Margin |
 |---|---|---|---|---|---|---|---|---|
-| 2005 | 13 | Regular | Kevin F. | kekumbass | 28.5 | Erik P. | 97.5 | 69 |
-| 2005 | 9 | Regular | Unknown manager | Manchild23 | 31 | Mike L. | 69.5 | 38.5 |
-| 2005 | 14 | Regular | Mark T. | packers 1 | 31.5 | Kevin F. | 87.5 | 56 |
-| 2005 | 11 | Regular | Unknown manager | whats my name? | 32 | Robert H. | 92 | 60 |
 | 2008 | 7 | Regular | Unknown manager | The Untouchables | 32 | Kevin F. | 81 | 49 |
-| 2005 | 6 | Regular | Mark T. | packers 1 | 32.5 | Unknown manager | 90.5 | 58 |
-| 2005 | 7 | Regular | Mark T. | packers 1 | 34 | Unknown manager | 85 | 51 |
 | 2014 | 15 | Consolation | Robert H. | Backdoor Sluts 9 | 36 | Mike L. | 52.5 | 16.5 |
 | 2017 | 3 | Regular | Brad C. | the aryan race | 36.38 | Ben H. | 83.5 | 47.12 |
-| 2005 | 13 | Regular | Unknown manager | whats my name? | 37 | Unknown manager | 59 | 22 |
+| 2013 | 15 | Consolation | Chris H. | R Peters Babysitting | 38 | Robert H. | 120.5 | 82.5 |
+| 2007 | 8 | Regular | Robert H. | extremely large bob | 40 | Chris H. | 104.5 | 64.5 |
+| 2006 | 8 | Regular | Chris W. | XTREMELYLARGECHODES | 41 | Mike L. | 90 | 49 |
+| 2006 | 4 | Regular | Chris W. | XTREMELYLARGECHODES | 42 | Erik P. | 93 | 51 |
+| 2008 | 12 | Regular | Mike L. | The Big Mike's | 42 | Marcus H. | 110 | 68 |
+| 2007 | 10 | Regular | Kevin F. | 85 is back | 44 | Erik P. | 112 | 68 |
+| 2009 | 8 | Regular | Kevin F. | The T.O Show | 45 | Erik P. | 133 | 88 |
 
 ### Biggest blowouts
 
@@ -217,14 +218,14 @@ Every game type counts here. "Game" says regular season, playoff or consolation.
 |---|---|---|---|---|---|---|---|---|
 | 2014 | 15 | Consolation | Mike L. | Summit street filth | 52.5 | Robert H. | 36 | 16.5 |
 | 2008 | 8 | Regular | Mark T. | Th3 CuB3 | 56 | Unknown manager | 48 | 8 |
-| 2005 | 16 | Consolation | Kevin F. | kekumbass | 57.5 | Unknown manager | 53.5 | 4 |
-| 2005 | 13 | Regular | Unknown manager | Manchild23 | 59 | Unknown manager | 37 | 22 |
 | 2008 | 1 | Regular | Unknown manager | The Untouchables | 61 | Chris W. | 54 | 7 |
 | 2008 | 11 | Regular | Chris W. | CLIFFS MOM IS HOT | 61 | Kevin F. | 60 | 1 |
 | 2009 | 5 | Regular | Mike L. | Cougars | 63 | Ben H. | 55 | 8 |
 | 2008 | 12 | Regular | Robert H. | unga bunga | 65 | Ben H. | 63 | 2 |
 | 2010 | 7 | Regular | Matty M. | Try&KickMeOutBitches | 67 | Ben H. | 54.5 | 12.5 |
 | 2013 | 9 | Regular | Marcus H. | Gert B Frobe | 67 | Mark T. | 64.5 | 2.5 |
+| 2022 | 16 | Consolation | Mark T. | Vickie Valencourt | 68.66 | Ben H. | 63.9 | 4.76 |
+| 2009 | 7 | Regular | Mike L. | Cougars | 69 | Robert H. | 67 | 2 |
 
 ### Ties
 
@@ -240,18 +241,18 @@ All-play: each week, every team is scored against every other team's score. Expe
 | Manager | All-play record | All-play % | Actual wins | Expected wins | Luck | Weekly top score |
 |---|---|---|---|---|---|---|
 | Michael M. | 1381-954-3 | .591 | 143 | 140.03 | +2.97 | 38 |
-| Erik P. | 1580-1299-9 | .549 | 154 | 161.03 | -7.03 | 32 |
+| Erik P. | 1522-1231-9 | .553 | 146 | 154.59 | -8.59 | 31 |
 | Brad C. | 1455-1296-11 | .529 | 152 | 147.64 | +4.36 | 30 |
 | Chris H. | 1448-1303-11 | .526 | 145 | 147.53 | -2.53 | 22 |
-| Robert H. | 1470-1412-6 | .510 | 144 | 151.63 | -7.63 | 26 |
-| Kevin F. | 432-423-3 | .505 | 43 | 43.84 | -0.84 | 11 |
+| Kevin F. | 381-348-3 | .523 | 37 | 38.17 | -1.17 | 10 |
+| Robert H. | 1382-1375-5 | .501 | 135 | 141.8 | -6.80 | 23 |
 | Alex B. | 428-438-3 | .494 | 45 | 39.05 | +5.95 | 4 |
 | Marcus H. | 1359-1395-8 | .493 | 137 | 137.21 | -0.21 | 26 |
-| Mike L. | 828-884-15 | .484 | 76 | 79.78 | -3.78 | 15 |
-| Ben H. | 1395-1488-5 | .484 | 139.5 | 140.97 | -1.47 | 24 |
 | Pat F. | 1112-1220-6 | .477 | 120.5 | 112.25 | +8.25 | 22 |
+| Ben H. | 1312-1446-4 | .476 | 131.5 | 131.69 | -0.19 | 21 |
+| Mike L. | 752-835-14 | .474 | 67 | 71.28 | -4.28 | 12 |
 | Matty M. | 1199-1422-6 | .458 | 133 | 122.72 | +10.28 | 22 |
-| Mark T. | 1225-1516-12 | .447 | 112 | 123.93 | -11.93 | 20 |
+| Mark T. | 1185-1432-10 | .453 | 108 | 119.37 | -11.37 | 19 |
 | Chris W. | 120-301-3 | .287 | 15 | 12.5 | +2.50 | 1 |
 
 ### Luckiest seasons
@@ -312,7 +313,6 @@ PF rank is the regular-season points rank. Final rank is Yahoo's, after the play
 | 2008 | Erik P. | Billy Cundiff | 11-3 | 1,416 | 1 | 4 |  |
 | 2007 | Matty M. | Hitler's Cowbell | 13-2 | 2,002.5 | 1 | 3 | third |
 | 2006 | Kevin F. | whosgonnastop85 | 13-2 | 1,968.5 | 1 | 3 | third |
-| 2005 | Robert H. | blue devils | 9-5 | 1,366 | 1 | 1 | champion |
 
 ### Finished well above their points rank
 
@@ -734,15 +734,15 @@ Regular-season and playoff games between two known managers.
 | Rivalry | Games | Record (first named) | Playoff games | Avg point gap per game |
 |---|---|---|---|---|
 | Brad C. vs Chris H. | 34 | 15-19 | 2 | 1.01 |
-| Ben H. vs Erik P. | 34 | 13-21 | 2 | 4.7 |
+| Ben H. vs Erik P. | 34 | 13-21 | 2 | 4.25 |
 | Erik P. vs Matty M. | 33 | 17-16 | 3 | 2.44 |
-| Ben H. vs Robert H. | 33 | 15-18 | 0 | 6.86 |
+| Ben H. vs Robert H. | 33 | 15-18 | 0 | 6.96 |
 | Chris H. vs Marcus H. | 33 | 14-19 | 2 | 5.68 |
 | Brad C. vs Erik P. | 33 | 13-20 | 7 | 5.69 |
-| Erik P. vs Robert H. | 32 | 13-19 | 2 | 1.37 |
+| Erik P. vs Robert H. | 32 | 13-19 | 2 | 2.16 |
 | Ben H. vs Marcus H. | 32 | 12-20 | 2 | 3.11 |
 | Chris H. vs Erik P. | 32 | 12-20 | 3 | 18.16 |
-| Ben H. vs Mark T. | 31 | 16-15 | 1 | 3.29 |
+| Ben H. vs Mark T. | 31 | 16-15 | 1 | 4.12 |
 
 ### Closest series (15+ games)
 
@@ -752,7 +752,7 @@ Regular-season and playoff games between two known managers.
 | Marcus H. vs Pat F. | 22 | 11-11 | 0 | 3.84 |
 | Brad C. vs Mike L. | 16 | 8-8 | 0 | 5.77 |
 | Erik P. vs Matty M. | 33 | 17-16 | 3 | 2.44 |
-| Ben H. vs Mark T. | 31 | 16-15 | 1 | 3.29 |
+| Ben H. vs Mark T. | 31 | 16-15 | 1 | 4.12 |
 | Pat F. vs Robert H. | 27 | 14-13 | 0 | 7.03 |
 | Chris H. vs Mike L. | 15 | 7-8 | 1 | 9.9 |
 | Erik P. vs Michael M. | 28 | 13-15 | 4 | 3.28 |
@@ -769,7 +769,7 @@ Regular-season and playoff games between two known managers.
 | Brad C. vs Marcus H. | 29 | 19-10 | 1 | 10.54 |
 | Brad C. vs Michael M. | 31 | 11-20 | 5 | 8.7 |
 | Marcus H. vs Michael M. | 25 | 8-17 | 1 | 13.48 |
-| Ben H. vs Erik P. | 34 | 13-21 | 2 | 4.7 |
+| Ben H. vs Erik P. | 34 | 13-21 | 2 | 4.25 |
 | Ben H. vs Marcus H. | 32 | 12-20 | 2 | 3.11 |
 | Brad C. vs Robert H. | 28 | 18-10 | 1 | 6.66 |
 | Chris H. vs Erik P. | 32 | 12-20 | 3 | 18.16 |
@@ -780,7 +780,6 @@ Regular-season points per team per game.
 
 | Season | Average | High | Low | PPR |
 |---|---|---|---|---|
-| 2005 | 83.15 | 146.5 | 28.5 | 0 |
 | 2006 | 103.74 | 196.5 | 41 | 0 |
 | 2007 | 110.75 | 178.5 | 40 | 0 |
 | 2008 | 84.43 | 148 | 32 | 0 |
@@ -991,18 +990,18 @@ Close = decided by less than 3 points. Unlucky loss = lost with a top-3 score th
 | Manager | Close games | Unlucky losses | Lucky wins | Weekly high | Weekly low | Scoring index | Volatility |
 |---|---|---|---|---|---|---|---|
 | Michael M. | 9-9 | 4 | 3 | 38 | 14 | 106.3 | 21.4 |
-| Erik P. | 9-13 | 9 | 8 | 32 | 25 | 103.8 | 21.6 |
+| Erik P. | 9-13 | 9 | 7 | 31 | 23 | 104.0 | 21.6 |
+| Kevin F. | 2-6 | 1 | 0 | 10 | 9 | 103.8 | 27.7 |
 | Chris H. | 12-10 | 8 | 7 | 22 | 19 | 101.7 | 20.4 |
-| Kevin F. | 2-6 | 1 | 0 | 11 | 12 | 101.4 | 27.8 |
 | Brad C. | 11-7 | 8 | 9 | 30 | 25 | 100.9 | 21.2 |
-| Robert H. | 10-15 | 4 | 6 | 26 | 22 | 100.7 | 21.0 |
+| Robert H. | 10-15 | 3 | 6 | 23 | 22 | 99.9 | 20.5 |
 | Alex B. | 2-0 | 2 | 5 | 4 | 4 | 99.5 | 19.4 |
-| Ben H. | 11-12 | 7 | 3 | 24 | 31 | 99.3 | 21.4 |
 | Marcus H. | 13-6 | 9 | 11 | 26 | 29 | 99.3 | 22.5 |
+| Ben H. | 11-11 | 7 | 3 | 21 | 31 | 98.5 | 21.1 |
 | Pat F. | 5-10 | 9 | 6 | 22 | 21 | 98.5 | 19.6 |
 | Matty M. | 13-8 | 5 | 10 | 22 | 29 | 98.2 | 21.4 |
-| Mike L. | 7-4 | 4 | 4 | 15 | 17 | 98.0 | 23.2 |
-| Mark T. | 5-15 | 9 | 6 | 20 | 33 | 97.0 | 21.8 |
+| Mark T. | 5-15 | 9 | 5 | 19 | 29 | 97.6 | 21.2 |
+| Mike L. | 7-4 | 4 | 3 | 12 | 17 | 96.9 | 22.9 |
 | Chris W. | 1-0 | 0 | 3 | 1 | 7 | 81.9 | 22.5 |
 
 ### Best games relative to their era
@@ -1013,12 +1012,12 @@ Close = decided by less than 3 points. Unlucky loss = lost with a top-3 score th
 | 2006 | 12 | Erik P. | TheNigs II | 191.5 | 103.74 | 184.6 |
 | 2006 | 11 | Kevin F. | whosgonnastop85 | 189.5 | 103.74 | 182.7 |
 | 2013 | 1 | Ben H. | The Sheriff | 187.5 | 106.21 | 176.5 |
-| 2005 | 4 | Ben H. | The Lavender Ligers | 146.5 | 83.15 | 176.2 |
 | 2008 | 12 | Chris H. | Abby Scalia's Mom | 148 | 84.43 | 175.3 |
 | 2015 | 3 | Marcus H. | Gert B Frobe | 190.7 | 111.37 | 171.2 |
 | 2012 | 6 | Ben H. | Get Manninghandled | 168 | 100.24 | 167.6 |
 | 2016 | 1 | Marcus H. | Gert B Frobe | 180.6 | 110.26 | 163.8 |
 | 2009 | 2 | Mark T. | MEATBULL | 147 | 90.29 | 162.8 |
+| 2006 | 8 | Kevin F. | whosgonnastop85 | 168 | 103.74 | 161.9 |
 
 ### Most playoff meetings
 
@@ -1041,6 +1040,52 @@ Notes:
 - Seasons where a manager's team is unconfirmed (2005-2010) are unknown and break season streaks.
 - Scoring index = points / that season's average regular-season score x 100 (100 = average). Volatility is its standard deviation.
 - Close games are decided by less than 3 points; consolation games are left out of close-game and playoff counts.
+- 2005 is left out of close games, weekly luck, weekly highs and lows and the scoring index (wins and losses still count).
+
+## How sure we are
+
+Every manager-to-team link has a source. **Documented**: a Yahoo profile, the 2012 RTSports rosters, or a commissioner note checked against Yahoo. **Corroborated**: the league's answer plus independent support (same team name or logo in a documented season, or process of elimination). **Recalled**: the league's answer alone.
+
+Documented 128, corroborated 27, recalled 78, unknown 5 team-seasons.
+
+### How much each career depends on recalled links
+
+Record and titles counting every link, then only documented and corroborated links, then only documented links.
+
+| Manager | Documented | Corroborated | Recalled | All links | Titles | Without recalled | Titles | Documented only | Titles |
+|---|---|---|---|---|---|---|---|---|---|
+| Chris W. | 0 | 0 | 3 | 15-29 | 0 | 0-0 | 0 | 0-0 | 0 |
+| Kevin F. | 1 | 0 | 5 | 43-43 | 0 | 4-10 | 0 | 4-10 | 0 |
+| Alex B. | 2 | 0 | 4 | 45-34 | 1 | 16-10 | 0 | 16-10 | 0 |
+| Mike L. | 2 | 3 | 7 | 76-89 | 1 | 25-40 | 0 | 9-17 | 0 |
+| Robert H. | 12 | 0 | 10 | 144-150 | 2 | 80-75 | 0 | 80-75 | 0 |
+| Ben H. | 13 | 0 | 9 | 139-154-1 | 1 | 74-95 | 0 | 74-95 | 0 |
+| Erik P. | 13 | 1 | 8 | 154-140 | 3 | 91-91 | 3 | 87-82 | 3 |
+| Chris H. | 11 | 3 | 7 | 145-135 | 1 | 92-90 | 1 | 75-67 | 1 |
+| Matty M. | 12 | 2 | 6 | 133-132 | 0 | 100-81 | 0 | 83-72 | 0 |
+| Mark T. | 13 | 2 | 6 | 112-167 | 2 | 76-119 | 1 | 61-108 | 0 |
+| Marcus H. | 12 | 4 | 5 | 137-143 | 3 | 104-104 | 3 | 76-79 | 2 |
+| Michael M. | 12 | 3 | 3 | 143-93 | 4 | 119-76 | 4 | 97-58 | 4 |
+| Pat F. | 13 | 2 | 3 | 120-115-1 | 0 | 97-98 | 0 | 79-90 | 0 |
+| Brad C. | 12 | 7 | 2 | 152-128 | 3 | 140-113 | 3 | 89-66 | 1 |
+
+## Rule changes
+
+| Season | What changed |
+|---|---|
+| 2006 | regular season: weeks 1-14 → weeks 1-15; playoffs: 4 teams, weeks 15-16 → 4 teams, weeks 16-17; roster: 1 QB, 2 RB, 2 WR, 1 TE, K, DEF + D, 6 bench → 2 QB, 2 RB, 3 WR, 1 TE, K, DEF + D, 7 bench |
+| 2007 | draft: Live Standard Draft → Offline Draft; roster: 2 QB, 2 RB, 3 WR, 1 TE, K, DEF + D, 7 bench → 2 QB, 2 RB, 3 WR, 1 TE, K, DEF + D, 5 bench |
+| 2008 | teams: 10 → 12; regular season: weeks 1-15 → weeks 1-14; playoffs: 4 teams, weeks 16-17 → 4 teams, weeks 15-16; roster: 2 QB, 2 RB, 3 WR, 1 TE, K, DEF + D, 5 bench → 1 QB, 2 RB, 2 WR, 1 TE, 1 W/R flex, K, DEF, 6 bench |
+| 2010 | scoring: no points for receptions → 0.5 PPR |
+| 2012 | platform: Yahoo → RTSports; regular season: weeks 1-14 → weeks 1-13; playoffs: 4 teams, weeks 15-16 → 6 teams, weeks 14-16; waivers: Continual rolling list → Waiver wire (RTSports) |
+| 2013 | platform: RTSports → Yahoo; waivers: Waiver wire (RTSports) → Continual rolling list |
+| 2014 | keepers: no → yes |
+| 2015 | waivers: Continual rolling list → FAAB |
+| 2016 | roster: 1 QB, 2 RB, 2 WR, 1 TE, 1 W/R/T flex, K, DEF, 7 bench → 1 QB, 2 RB, 2 WR, 1 TE, 1 W/R/T flex, K, DEF, 7 bench, 1 IR |
+| 2017 | teams: 12 → 10 |
+| 2018 | roster: 1 QB, 2 RB, 2 WR, 1 TE, 1 W/R/T flex, K, DEF, 7 bench, 1 IR → 1 QB, 2 RB, 2 WR, 1 TE, 1 W/R/T flex, K, DEF, 7 bench, 2 IR |
+| 2020 | roster: 1 QB, 2 RB, 2 WR, 1 TE, 1 W/R/T flex, K, DEF, 7 bench, 2 IR → 1 QB, 2 RB, 2 WR, 1 TE, 1 W/R/T flex, K, DEF, 7 bench, 4 IR |
+| 2021 | regular season: weeks 1-13 → weeks 1-14; playoffs: 6 teams, weeks 14-16 → 6 teams, weeks 15-17 |
 
 ## Manager cards
 

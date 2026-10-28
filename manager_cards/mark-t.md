@@ -8,12 +8,14 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 
 | Record | Win % | Points for | Points against | PF / game | Playoff record | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 112-167 | .401 | 28,689.38 | 29,895.02 | 102.83 | 5-4 | 6 | 2 | 0 | 1 | 3 | 5 |
+| 112-167 | .401 | 27,690.38 | 28,654.02 | 104.49 | 5-4 | 6 | 2 | 0 | 1 | 3 | 5 |
+
+Sources: 13 documented, 2 corroborated and 6 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2008, 2015
 - Lost in the final: never
 - Title drought: 10 completed season(s) since the 2015 title
-- All-play: .447 (would beat that share of the league in an average week). Luck: -11.9 wins vs. expected. Weekly top score: 20 times.
+- All-play: .453 (would beat that share of the league in an average week). Luck: -11.4 wins vs. expected. Weekly top score: 19 times.
 - Moves: 39 trades, 380 adds, $615 FAAB spent (FAAB seasons 2015 onward).
 
 ## Storylines
@@ -28,8 +30,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 - Championship games: 2-0. #1 seeds: 0 (0 won the title).
 - Playoffs: 5-4 in bracket games (.556 vs .401 in the regular season).
 - Longest playoff run: 2 straight (2014-2015). Longest playoff drought: 5 (2009-2013).
-- Close games (under 3 points): 5-15. Lost with a top-3 score 9 times; won with a bottom-3 score 6 times. Weekly low score 33 times.
-- Scoring index 97.0 (100 = season average), volatility 21.8.
+- Close games (under 3 points): 5-15. Lost with a top-3 score 9 times; won with a bottom-3 score 5 times. Weekly low score 29 times.
+- Scoring index 97.6 (100 = season average), volatility 21.2.
 
 ## Best and worst moments
 
@@ -50,9 +52,9 @@ Regular-season and playoff games.
 
 | Most played | Games | Record | Points for | Points against |
 |---|---|---|---|---|
-| Ben H. | 31 | 15-16 | 3,319.18 | 3,217.2 |
+| Ben H. | 31 | 15-16 | 3,135.18 | 3,015.7 |
 | Matty M. | 30 | 13-17 | 3,223.92 | 3,334.24 |
-| Robert H. | 30 | 12-18 | 3,234.06 | 3,255.96 |
+| Robert H. | 30 | 12-18 | 3,080.06 | 3,093.96 |
 
 - **Owns:** Pat F., 13-11 (.542)
 - **Nemesis:** Michael M., 7-22 (.241)
@@ -99,7 +101,7 @@ Regular-season and playoff games.
 | 2009 | MEATBULL | 8-6 | 1,346 | 4 | 7 |  | +0.00 |
 | 2008 | Th3 CuB3 | 8-6 | 1,144 | 6 | 1 | Champion | +1.86 |
 | 2006 | The Bakers | 5-10 | 1,690 | 4 | 8 |  | -3.44 |
-| 2005 | packers 1 | 4-10 | 999 | 10 | 10 | Last | -0.56 |
+| 2005 | packers 1 | 4-10 | 999 |  | 10 | Last | n/a |
 
 ## First-round picks
 

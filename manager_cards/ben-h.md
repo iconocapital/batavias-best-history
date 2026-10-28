@@ -8,12 +8,14 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 
 | Record | Win % | Points for | Points against | PF / game | Playoff record | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 139-154-1 | .474 | 30,941.52 | 31,410.68 | 105.24 | 6-7 | 8 | 1 | 1 | 2 | 1 | 1 |
+| 139-154-1 | .474 | 29,602.52 | 30,144.18 | 105.72 | 6-7 | 8 | 1 | 1 | 2 | 1 | 1 |
+
+Sources: 13 documented, 0 corroborated and 9 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2013
 - Lost in the final: 2014
 - Title drought: 12 completed season(s) since the 2013 title
-- All-play: .484 (would beat that share of the league in an average week). Luck: -1.5 wins vs. expected. Weekly top score: 24 times.
+- All-play: .476 (would beat that share of the league in an average week). Luck: -0.2 wins vs. expected. Weekly top score: 21 times.
 - Moves: 17 trades, 589 adds, $766 FAAB spent (FAAB seasons 2015 onward).
 
 ## Storylines
@@ -25,8 +27,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 - Championship games: 1-1. #1 seeds: 1 (0 won the title).
 - Playoffs: 6-7 in bracket games (.462 vs .474 in the regular season).
 - Longest playoff run: 3 straight (2012-2014). Longest playoff drought: 7 (2019-2025).
-- Close games (under 3 points): 11-12. Lost with a top-3 score 7 times; won with a bottom-3 score 3 times. Weekly low score 31 times.
-- Scoring index 99.3 (100 = season average), volatility 21.4.
+- Close games (under 3 points): 11-11. Lost with a top-3 score 7 times; won with a bottom-3 score 3 times. Weekly low score 31 times.
+- Scoring index 98.5 (100 = season average), volatility 21.1.
 
 ## Best and worst moments
 
@@ -47,8 +49,8 @@ Regular-season and playoff games.
 
 | Most played | Games | Record | Points for | Points against |
 |---|---|---|---|---|
-| Erik P. | 34 | 13-21 | 3,718.08 | 3,877.82 |
-| Robert H. | 33 | 15-18 | 3,339.32 | 3,565.54 |
+| Erik P. | 34 | 13-21 | 3,637.08 | 3,777.32 |
+| Robert H. | 33 | 15-18 | 3,154.32 | 3,370.04 |
 | Marcus H. | 32 | 12-20 | 3,335.24 | 3,434.78 |
 
 - **Owns:** Mike L., 11-7 (.611)
@@ -97,7 +99,7 @@ Regular-season and playoff games.
 | 2008 | PLaY MaKeRs | 8-6 | 1,131 | 8 | 5 |  | +1.64 |
 | 2007 | PLaYMaKeRs | 7-8 | 1,743 | 2 | 7 |  | -1.00 |
 | 2006 | The Yeti's | 8-7 | 1,600.5 | 6 | 6 |  | -0.33 |
-| 2005 | The Lavender Ligers | 8-6 | 1,339 | 2 | 3 | 3rd | -1.28 |
+| 2005 | The Lavender Ligers | 8-6 | 1,339 |  | 3 | 3rd | n/a |
 
 ## First-round picks
 

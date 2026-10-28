@@ -8,12 +8,14 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 
 | Record | Win % | Points for | Points against | PF / game | Playoff record | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 144-150 | .490 | 31,482.84 | 31,302.56 | 107.08 | 6-10 | 12 | 2 | 2 | 1 | 3 | 2 |
+| 144-150 | .490 | 30,116.84 | 30,221.06 | 107.56 | 6-10 | 12 | 2 | 2 | 1 | 3 | 2 |
+
+Sources: 12 documented, 0 corroborated and 10 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2005, 2006
 - Lost in the final: 2021, 2025
 - Title drought: 19 completed season(s) since the 2006 title
-- All-play: .510 (would beat that share of the league in an average week). Luck: -7.6 wins vs. expected. Weekly top score: 26 times.
+- All-play: .501 (would beat that share of the league in an average week). Luck: -6.8 wins vs. expected. Weekly top score: 23 times.
 - Moves: 25 trades, 401 adds, $800 FAAB spent (FAAB seasons 2015 onward).
 
 ## Storylines
@@ -29,8 +31,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 - Championship games: 2-2. #1 seeds: 2 (1 won the title).
 - Playoffs: 6-10 in bracket games (.375 vs .490 in the regular season).
 - Longest playoff run: 5 straight (2018-2022). Longest playoff drought: 4 (2008-2011).
-- Close games (under 3 points): 10-15. Lost with a top-3 score 4 times; won with a bottom-3 score 6 times. Weekly low score 22 times.
-- Scoring index 100.7 (100 = season average), volatility 21.0.
+- Close games (under 3 points): 10-15. Lost with a top-3 score 3 times; won with a bottom-3 score 6 times. Weekly low score 22 times.
+- Scoring index 99.9 (100 = season average), volatility 20.5.
 
 ## Best and worst moments
 
@@ -51,9 +53,9 @@ Regular-season and playoff games.
 
 | Most played | Games | Record | Points for | Points against |
 |---|---|---|---|---|
-| Ben H. | 33 | 18-15 | 3,565.54 | 3,339.32 |
-| Erik P. | 32 | 19-13 | 3,629.44 | 3,673.34 |
-| Mark T. | 30 | 18-12 | 3,255.96 | 3,234.06 |
+| Ben H. | 33 | 18-15 | 3,370.04 | 3,154.32 |
+| Erik P. | 32 | 19-13 | 3,525.94 | 3,592.84 |
+| Mark T. | 30 | 18-12 | 3,093.96 | 3,080.06 |
 
 - **Owns:** Mark T., 18-12 (.600)
 - **Nemesis:** Brad C., 10-18 (.357)
@@ -101,7 +103,7 @@ Regular-season and playoff games.
 | 2008 | unga bunga | 7-7 | 1,222 | 5 | 7 |  | -1.14 |
 | 2007 | extremely large bob | 10-5 | 1,570.5 | 8 | 4 |  | +3.17 |
 | 2006 | Big Bob | 10-5 | 1,649 | 5 | 1 | Champion | +1.22 |
-| 2005 | blue devils | 9-5 | 1,366 | 1 | 1 | Champion | -0.83 |
+| 2005 | blue devils | 9-5 | 1,366 |  | 1 | Champion | n/a |
 
 ## First-round picks
 

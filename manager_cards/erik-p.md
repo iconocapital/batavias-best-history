@@ -8,12 +8,14 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 
 | Record | Win % | Points for | Points against | PF / game | Playoff record | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 154-140 | .524 | 32,374.82 | 31,318.6 | 110.12 | 16-11 | 14 | 3 | 4 | 3 | 1 | 0 |
+| 154-140 | .524 | 31,214.82 | 30,177.1 | 111.48 | 16-11 | 14 | 3 | 4 | 3 | 1 | 0 |
+
+Sources: 13 documented, 1 corroborated and 8 recalled seasons (see records.md, How sure we are).
 
 - Titles: 2017, 2019, 2022
 - Lost in the final: 2006, 2009, 2016, 2020
 - Title drought: 3 completed season(s) since the 2022 title
-- All-play: .549 (would beat that share of the league in an average week). Luck: -7.0 wins vs. expected. Weekly top score: 32 times.
+- All-play: .553 (would beat that share of the league in an average week). Luck: -8.6 wins vs. expected. Weekly top score: 31 times.
 - Moves: 14 trades, 682 adds, $1,035 FAAB spent (FAAB seasons 2015 onward).
 
 ## Storylines
@@ -29,8 +31,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 - Championship games: 3-4. #1 seeds: 2 (1 won the title).
 - Playoffs: 16-11 in bracket games (.593 vs .524 in the regular season).
 - Longest playoff run: 7 straight (2019-2025). Longest playoff drought: 3 (2010-2012).
-- Close games (under 3 points): 9-13. Lost with a top-3 score 9 times; won with a bottom-3 score 8 times. Weekly low score 25 times.
-- Scoring index 103.8 (100 = season average), volatility 21.6.
+- Close games (under 3 points): 9-13. Lost with a top-3 score 9 times; won with a bottom-3 score 7 times. Weekly low score 23 times.
+- Scoring index 104.0 (100 = season average), volatility 21.6.
 
 ## Best and worst moments
 
@@ -51,7 +53,7 @@ Regular-season and playoff games.
 
 | Most played | Games | Record | Points for | Points against |
 |---|---|---|---|---|
-| Ben H. | 34 | 21-13 | 3,877.82 | 3,718.08 |
+| Ben H. | 34 | 21-13 | 3,777.32 | 3,637.08 |
 | Brad C. | 33 | 20-13 | 3,901.32 | 3,713.44 |
 | Matty M. | 33 | 17-16 | 3,790.3 | 3,709.74 |
 
@@ -101,7 +103,7 @@ Regular-season and playoff games.
 | 2008 | Billy Cundiff | 11-3 | 1,416 | 1 | 4 |  | +0.45 |
 | 2007 | TheNigsRback | 4-11 | 1,659 | 4 | 8 |  | -2.50 |
 | 2006 | TheNigs II | 8-7 | 1,743.5 | 2 | 2 | Runner-up | -0.33 |
-| 2005 | TheNigs | 8-6 | 1,160 | 5 | 6 |  | +1.56 |
+| 2005 | TheNigs | 8-6 | 1,160 |  | 6 |  | n/a |
 
 ## First-round picks
 

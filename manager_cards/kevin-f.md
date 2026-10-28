@@ -8,12 +8,14 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 
 | Record | Win % | Points for | Points against | PF / game | Playoff record | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 43-43 | .500 | 8,394 | 8,354 | 97.6 | 0-2 | 2 | 0 | 0 | 2 | 0 | 0 |
+| 43-43 | .500 | 7,357.5 | 7,222 | 102.19 | 0-2 | 2 | 0 | 0 | 2 | 0 | 0 |
+
+Sources: 1 documented, 0 corroborated and 5 recalled seasons (see records.md, How sure we are).
 
 - Titles: none yet
 - Lost in the final: never
 - Title drought: 6 completed season(s) since joining, with no title yet
-- All-play: .505 (would beat that share of the league in an average week). Luck: -0.8 wins vs. expected. Weekly top score: 11 times.
+- All-play: .523 (would beat that share of the league in an average week). Luck: -1.2 wins vs. expected. Weekly top score: 10 times.
 - Moves: 5 trades, 71 adds, $0 FAAB spent (FAAB seasons 2015 onward).
 
 ## Storylines
@@ -25,8 +27,8 @@ Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them
 - Championship games: 0-0. #1 seeds: 1 (0 won the title).
 - Playoffs: 0-2 in bracket games (.000 vs .500 in the regular season).
 - Longest playoff run: 1 straight (2006). Longest playoff drought: 2 (2009-2010).
-- Close games (under 3 points): 2-6. Lost with a top-3 score 1 times; won with a bottom-3 score 0 times. Weekly low score 12 times.
-- Scoring index 101.4 (100 = season average), volatility 27.8.
+- Close games (under 3 points): 2-6. Lost with a top-3 score 1 times; won with a bottom-3 score 0 times. Weekly low score 9 times.
+- Scoring index 103.8 (100 = season average), volatility 27.7.
 
 ## Best and worst moments
 
@@ -47,8 +49,8 @@ Regular-season and playoff games.
 
 | Most played | Games | Record | Points for | Points against |
 |---|---|---|---|---|
-| Robert H. | 11 | 5-6 | 1,032.5 | 1,127 |
-| Erik P. | 10 | 5-5 | 908 | 1,010 |
+| Robert H. | 11 | 5-6 | 928.5 | 892 |
+| Erik P. | 10 | 5-5 | 780 | 848 |
 | Marcus H. | 9 | 7-2 | 1,005 | 894 |
 
 - **Owns:** Erik P., 5-5 (.500)
@@ -80,7 +82,7 @@ Regular-season and playoff games.
 | 2008 | primetime | 9-5 | 1,242 | 3 | 3 | 3rd | +1.82 |
 | 2007 | 85 is back | 4-11 | 1,604 | 7 | 9 |  | -2.94 |
 | 2006 | whosgonnastop85 | 13-2 | 1,968.5 | 1 | 3 | 3rd | +1.22 |
-| 2005 | kekumbass | 6-8 | 1,036.5 | 9 | 7 |  | +0.33 |
+| 2005 | kekumbass | 6-8 | 1,036.5 |  | 7 |  | n/a |
 
 ## First-round picks
 
