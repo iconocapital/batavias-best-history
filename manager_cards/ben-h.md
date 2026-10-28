@@ -2,7 +2,7 @@
 
 Seasons: 2005 to 2026 (22 seasons, including 2026 in progress).
 
-Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
+Note: 6 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
 
 ## Career totals
 
@@ -71,7 +71,7 @@ Regular-season and playoff games.
 | Marcus H. | 12-20 | .375 | 2 |
 | Mark T. | 16-15 | .516 | 1 |
 | Matty M. | 11-14 | .440 | 2 |
-| Michael M. | 10-13 | .435 | 0 |
+| Michael M. | 8-13 | .381 | 0 |
 | Mike L. | 11-7 | .611 | 1 |
 | Pat F. | 14-9-1 | .604 | 0 |
 | Robert H. | 15-18 | .455 | 0 |

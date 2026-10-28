@@ -2,7 +2,7 @@
 
 Seasons: 2011 to 2016 (6 seasons).
 
-Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
+Note: 6 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
 
 ## Career totals
 

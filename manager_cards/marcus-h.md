@@ -2,7 +2,7 @@
 
 Seasons: 2006 to 2026 (21 seasons, including 2026 in progress).
 
-Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
+Note: 6 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
 
 ## Career totals
 
@@ -60,7 +60,7 @@ Regular-season and playoff games.
 | Erik P. | 31 | 13-18 | 3,548 | 3,510.82 |
 
 - **Owns:** Mike L., 10-5 (.667)
-- **Nemesis:** Michael M., 8-17 (.320)
+- **Nemesis:** Michael M., 7-17 (.292)
 
 ### Full head-to-head
 
@@ -75,7 +75,7 @@ Regular-season and playoff games.
 | Kevin F. | 2-7 | .222 | 0 |
 | Mark T. | 17-10 | .630 | 0 |
 | Matty M. | 12-15 | .444 | 1 |
-| Michael M. | 8-17 | .320 | 1 |
+| Michael M. | 7-17 | .292 | 1 |
 | Mike L. | 10-5 | .667 | 1 |
 | Pat F. | 11-11 | .500 | 0 |
 | Robert H. | 16-13 | .552 | 3 |

@@ -2,7 +2,7 @@
 
 Seasons: 2007 to 2026 (20 seasons, including 2026 in progress).
 
-Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
+Note: 6 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
 
 ## Career totals
 
@@ -73,7 +73,7 @@ Regular-season and playoff games.
 | Kevin F. | 7-0 | 1.000 | 0 |
 | Marcus H. | 15-12 | .556 | 1 |
 | Mark T. | 17-13 | .567 | 0 |
-| Michael M. | 8-16 | .333 | 1 |
+| Michael M. | 8-15 | .348 | 1 |
 | Mike L. | 2-8 | .200 | 0 |
 | Pat F. | 17-11 | .607 | 1 |
 | Robert H. | 14-8 | .636 | 0 |

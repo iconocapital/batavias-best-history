@@ -15,7 +15,7 @@ Yahoo Fantasy Football, 2005 to 2026 (2012 was played on RTSports; see "The lost
 - 2005 counts for wins, losses, standings, titles, head-to-head records and streaks, but not for anything built on points (career points, single-game records, all-play and luck, points rank vs finish): four of its managers are unknown and the league's settings weren't set up well yet.
 - "Last place" is Yahoo's final rank after consolation games. "Worst record" is the fewest regular-season wins (points for breaks ties), which can be a different team.
 
-- **Unknown managers:** 5 team-seasons from 2005-2010 have no confirmed manager yet. Their games count as opponents and in single-game records but are credited to no one, so career totals for long-time managers may be short for those years.
+- **Unknown managers:** 6 team-seasons from 2005-2010 have no confirmed manager yet. Their games count as opponents and in single-game records but are credited to no one, so career totals for long-time managers may be short for those years.
 - **Scoring changed over time:** 2005-2009 scored no points for receptions and averaged 83-110 points a game. Half-PPR began in 2010 and recent seasons average about 110-120, so the lowest scores mostly come from early seasons. See "Scoring by season" below.
 - Everything here comes from the league's own Yahoo pages.
 
@@ -63,7 +63,7 @@ Regular season. Ties count as half a win. Playoff record counts bracket games on
 
 | Manager | Seasons | Record | Win % | PF | PA | PF/gm | Playoff W-L | Playoffs | Titles | Runner-up | 3rd | Last (Yahoo) | Worst record |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Michael M. | 18 | 143-93 | .606 | 27,329.68 | 25,478.32 | 115.8 | 14-9 | 13 | 4 | 2 | 1 | 0 | 0 |
+| Michael M. | 17 | 136-86 | .613 | 26,021.68 | 24,131.32 | 117.21 | 14-9 | 13 | 4 | 2 | 1 | 0 | 0 |
 | Brad C. | 21 | 152-128 | .543 | 30,409.7 | 29,665.18 | 108.61 | 11-10 | 13 | 3 | 2 | 2 | 1 | 1 |
 | Erik P. | 22 | 154-140 | .524 | 31,214.82 | 30,177.1 | 111.48 | 16-11 | 14 | 3 | 4 | 3 | 1 | 0 |
 | Marcus H. | 21 | 137-143 | .489 | 29,831.12 | 30,084.44 | 106.54 | 8-6 | 9 | 3 | 0 | 3 | 2 | 3 |
@@ -109,7 +109,7 @@ Completed seasons played since the last title (or since joining), through 2025.
 | Erik P. | 3 | 2022 | 3 | 12 | 21 |
 | Chris W. | 0 | never | 3 | 3 | 3 |
 | Alex B. | 1 | 2014 | 2 | 3 | 6 |
-| Michael M. | 4 | 2024 | 1 | 5 | 17 |
+| Michael M. | 4 | 2024 | 1 | 5 | 16 |
 | Brad C. | 3 | 2025 | 0 | 15 | 20 |
 
 ## Head-to-head
@@ -119,19 +119,19 @@ Row manager's record against the column manager. Regular-season and playoff game
 | vs | Alex B. | Ben H. | Brad C. | Chris H. | Chris W. | Erik P. | Kevin F. | Marcus H. | Mark T. | Matty M. | Michael M. | Mike L. | Pat F. | Robert H. |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Alex B. |  | 5-4 | 4-6 | 4-4 |  | 5-1 |  | 5-3 | 4-3 | 4-2 | 5-5 | 5-4 | 5-3 | 5-3 |
-| Ben H. | 4-5 |  | 12-18 | 15-15 | 4-0 | 13-21 | 3-4 | 12-20 | 16-15 | 11-14 | 10-13 | 11-7 | 14-9-1 | 15-18 |
-| Brad C. | 6-4 | 18-12 |  | 15-19 | 3-1 | 13-20 | 1-5 | 19-10 | 18-9 | 18-12 | 11-20 | 8-8 | 15-7 | 18-10 |
-| Chris H. | 4-4 | 15-15 | 19-15 |  | 4-1 | 12-20 | 7-1 | 14-19 | 15-13 | 19-9 | 8-15 | 7-8 | 11-13 | 18-11 |
+| Ben H. | 4-5 |  | 12-18 | 15-15 | 4-0 | 13-21 | 3-4 | 12-20 | 16-15 | 11-14 | 8-13 | 11-7 | 14-9-1 | 15-18 |
+| Brad C. | 6-4 | 18-12 |  | 15-19 | 3-1 | 13-20 | 1-5 | 19-10 | 18-9 | 18-12 | 11-19 | 8-8 | 15-7 | 18-10 |
+| Chris H. | 4-4 | 15-15 | 19-15 |  | 4-1 | 12-20 | 7-1 | 14-19 | 15-13 | 19-9 | 7-15 | 7-8 | 11-13 | 18-11 |
 | Chris W. |  | 0-4 | 1-3 | 1-4 |  | 2-4 | 3-1 | 2-3 | 1-2 | 1-2 |  | 2-1 |  | 1-4 |
-| Erik P. | 1-5 | 21-13 | 20-13 | 20-12 | 4-2 |  | 5-5 | 18-13 | 14-10 | 17-16 | 13-15 | 9-6 | 11-18 | 13-19 |
-| Kevin F. |  | 4-3 | 5-1 | 1-7 | 1-3 | 5-5 |  | 7-2 | 5-1 | 0-7 | 2-0 | 4-5 | 0-3 | 5-6 |
-| Marcus H. | 3-5 | 20-12 | 10-19 | 19-14 | 3-2 | 13-18 | 2-7 |  | 17-10 | 12-15 | 8-17 | 10-5 | 11-11 | 16-13 |
-| Mark T. | 3-4 | 15-16 | 9-18 | 13-15 | 2-1 | 10-14 | 1-5 | 10-17 |  | 13-17 | 7-22 | 6-9 | 13-11 | 12-18 |
-| Matty M. | 2-4 | 14-11 | 12-18 | 9-19 | 2-1 | 16-17 | 7-0 | 15-12 | 17-13 |  | 8-16 | 2-8 | 17-11 | 14-8 |
-| Michael M. | 5-5 | 13-10 | 20-11 | 15-8 |  | 15-13 | 0-2 | 17-8 | 22-7 | 16-8 |  | 6-2 | 12-15 | 16-13 |
-| Mike L. | 4-5 | 7-11 | 8-8 | 8-7 | 1-2 | 6-9 | 5-4 | 5-10 | 9-6 | 8-2 | 2-6 |  | 2-9 | 11-8 |
-| Pat F. | 3-5 | 9-14-1 | 7-15 | 13-11 |  | 18-11 | 3-0 | 11-11 | 11-13 | 11-17 | 15-12 | 9-2 |  | 14-13 |
-| Robert H. | 3-5 | 18-15 | 10-18 | 11-18 | 4-1 | 19-13 | 6-5 | 13-16 | 18-12 | 8-14 | 13-16 | 8-11 | 13-14 |  |
+| Erik P. | 1-5 | 21-13 | 20-13 | 20-12 | 4-2 |  | 5-5 | 18-13 | 14-10 | 17-16 | 13-14 | 9-6 | 11-18 | 13-19 |
+| Kevin F. |  | 4-3 | 5-1 | 1-7 | 1-3 | 5-5 |  | 7-2 | 5-1 | 0-7 | 1-0 | 4-5 | 0-3 | 5-6 |
+| Marcus H. | 3-5 | 20-12 | 10-19 | 19-14 | 3-2 | 13-18 | 2-7 |  | 17-10 | 12-15 | 7-17 | 10-5 | 11-11 | 16-13 |
+| Mark T. | 3-4 | 15-16 | 9-18 | 13-15 | 2-1 | 10-14 | 1-5 | 10-17 |  | 13-17 | 6-21 | 6-9 | 13-11 | 12-18 |
+| Matty M. | 2-4 | 14-11 | 12-18 | 9-19 | 2-1 | 16-17 | 7-0 | 15-12 | 17-13 |  | 8-15 | 2-8 | 17-11 | 14-8 |
+| Michael M. | 5-5 | 13-8 | 19-11 | 15-7 |  | 14-13 | 0-1 | 17-7 | 21-6 | 15-8 |  | 5-2 | 11-15 | 15-12 |
+| Mike L. | 4-5 | 7-11 | 8-8 | 8-7 | 1-2 | 6-9 | 5-4 | 5-10 | 9-6 | 8-2 | 2-5 |  | 2-9 | 11-8 |
+| Pat F. | 3-5 | 9-14-1 | 7-15 | 13-11 |  | 18-11 | 3-0 | 11-11 | 11-13 | 11-17 | 15-11 | 9-2 |  | 14-13 |
+| Robert H. | 3-5 | 18-15 | 10-18 | 11-18 | 4-1 | 19-13 | 6-5 | 13-16 | 18-12 | 8-14 | 12-15 | 8-11 | 13-14 |  |
 
 ## Single-game records
 
@@ -240,7 +240,7 @@ All-play: each week, every team is scored against every other team's score. Expe
 
 | Manager | All-play record | All-play % | Actual wins | Expected wins | Luck | Weekly top score |
 |---|---|---|---|---|---|---|
-| Michael M. | 1381-954-3 | .591 | 143 | 140.03 | +2.97 | 38 |
+| Michael M. | 1299-884-1 | .595 | 136 | 132.48 | +3.52 | 37 |
 | Erik P. | 1522-1231-9 | .553 | 146 | 154.59 | -8.59 | 31 |
 | Brad C. | 1455-1296-11 | .529 | 152 | 147.64 | +4.36 | 30 |
 | Chris H. | 1448-1303-11 | .526 | 145 | 147.53 | -2.53 | 22 |
@@ -613,7 +613,6 @@ Completed seasons, ranked by regular-season win %, then points for.
 | 2013 | 12 | Steven Jackson |  |  |  |
 | 2011 | 4 | Ray Rice |  |  |  |
 | 2010 | 8 | Steven Jackson |  |  |  |
-| 2009 | 2 | Matt Forte |  |  |  |
 
 ### Mike L.
 
@@ -683,6 +682,7 @@ Completed seasons, ranked by regular-season win %, then points for.
 
 | Season | Pick | Player | Pos | NFL | Keeper |
 |---|---|---|---|---|---|
+| 2009 | 2 | Matt Forte |  |  |  |
 | 2008 | 7 | Tom Brady |  |  |  |
 | 2005 | 1 | Peyton Manning |  |  |  |
 | 2005 | 5 | Donovan McNabb |  |  |  |
@@ -695,7 +695,7 @@ Trades count each trade once per manager involved. FAAB bidding began in 2015; e
 
 | Manager | Trades | Adds | Drops | Waiver claims | FAAB spent | Adds per season |
 |---|---|---|---|---|---|---|
-| Michael M. | 50 | 827 | 799 | 275 | $1085 | 45.9 |
+| Michael M. | 50 | 819 | 791 | 275 | $1085 | 48.2 |
 | Chris H. | 78 | 776 | 756 | 228 | $1087 | 37.0 |
 | Brad C. | 40 | 769 | 741 | 185 | $1037 | 36.6 |
 | Erik P. | 14 | 682 | 667 | 253 | $1035 | 31.0 |
@@ -752,10 +752,10 @@ Regular-season and playoff games between two known managers.
 | Marcus H. vs Pat F. | 22 | 11-11 | 0 | 3.84 |
 | Brad C. vs Mike L. | 16 | 8-8 | 0 | 5.77 |
 | Erik P. vs Matty M. | 33 | 17-16 | 3 | 2.44 |
+| Erik P. vs Michael M. | 27 | 13-14 | 4 | 2.77 |
 | Ben H. vs Mark T. | 31 | 16-15 | 1 | 4.12 |
 | Pat F. vs Robert H. | 27 | 14-13 | 0 | 7.03 |
 | Chris H. vs Mike L. | 15 | 7-8 | 1 | 9.9 |
-| Erik P. vs Michael M. | 28 | 13-15 | 4 | 3.28 |
 | Chris H. vs Mark T. | 28 | 15-13 | 1 | 4.31 |
 | Chris H. vs Pat F. | 24 | 11-13 | 2 | 4.62 |
 
@@ -763,16 +763,16 @@ Regular-season and playoff games between two known managers.
 
 | Rivalry | Games | Record (first named) | Playoff games | Avg point gap per game |
 |---|---|---|---|---|
-| Mark T. vs Michael M. | 29 | 7-22 | 2 | 13.76 |
+| Mark T. vs Michael M. | 27 | 6-21 | 2 | 16.52 |
 | Chris H. vs Matty M. | 28 | 19-9 | 1 | 11.73 |
+| Marcus H. vs Michael M. | 24 | 7-17 | 1 | 14.54 |
 | Brad C. vs Mark T. | 27 | 18-9 | 1 | 10.55 |
 | Brad C. vs Marcus H. | 29 | 19-10 | 1 | 10.54 |
-| Brad C. vs Michael M. | 31 | 11-20 | 5 | 8.7 |
-| Marcus H. vs Michael M. | 25 | 8-17 | 1 | 13.48 |
 | Ben H. vs Erik P. | 34 | 13-21 | 2 | 4.25 |
 | Ben H. vs Marcus H. | 32 | 12-20 | 2 | 3.11 |
 | Brad C. vs Robert H. | 28 | 18-10 | 1 | 6.66 |
 | Chris H. vs Erik P. | 32 | 12-20 | 3 | 18.16 |
+| Brad C. vs Pat F. | 22 | 15-7 | 1 | 4.91 |
 
 ## Scoring by season
 
@@ -925,7 +925,7 @@ Bracket games only. Positive = better in the playoffs than the regular season.
 | Marcus H. | 8-6 | .571 | .489 | +0.082 |
 | Erik P. | 16-11 | .593 | .524 | +0.069 |
 | Alex B. | 6-4 | .600 | .570 | +0.030 |
-| Michael M. | 14-9 | .609 | .606 | +0.003 |
+| Michael M. | 14-9 | .609 | .613 | -0.004 |
 | Ben H. | 6-7 | .462 | .474 | -0.012 |
 | Chris H. | 9-9 | .500 | .518 | -0.018 |
 | Brad C. | 11-10 | .524 | .543 | -0.019 |
@@ -941,7 +941,7 @@ Consecutive seasons. A season with an unconfirmed manager breaks a streak.
 | Manager | Playoff trips | When | Missed playoffs | When | Winning seasons | When | Losing seasons | When |
 |---|---|---|---|---|---|---|---|---|
 | Erik P. | 7 | 2019-2025 | 3 | 2010-2012 | 2 | 2005-2006 | 1 | 2007 |
-| Michael M. | 7 | 2015-2021 | 2 | 2009-2010 | 4 | 2018-2021 | 1 | 2010 |
+| Michael M. | 7 | 2015-2021 | 1 | 2010 | 4 | 2018-2021 | 1 | 2010 |
 | Robert H. | 5 | 2018-2022 | 4 | 2008-2011 | 3 | 2005-2007 | 3 | 2009-2011 |
 | Alex B. | 5 | 2012-2016 | 1 | 2011 | 5 | 2012-2016 | 1 | 2011 |
 | Brad C. | 4 | 2018-2021 | 2 | 2010-2011 | 3 | 2018-2020 | 1 | 2006 |
@@ -1033,7 +1033,7 @@ Close = decided by less than 3 points. Unlucky loss = lost with a top-3 score th
 
 | Manager | Close games | Unlucky losses | Lucky wins | Weekly high | Weekly low | Scoring index | Volatility |
 |---|---|---|---|---|---|---|---|
-| Michael M. | 9-9 | 4 | 3 | 38 | 14 | 106.3 | 21.4 |
+| Michael M. | 9-9 | 4 | 3 | 37 | 13 | 106.4 | 21.4 |
 | Erik P. | 9-13 | 9 | 7 | 31 | 23 | 104.0 | 21.6 |
 | Kevin F. | 2-6 | 1 | 0 | 10 | 9 | 103.8 | 27.7 |
 | Chris H. | 12-10 | 8 | 7 | 22 | 19 | 101.7 | 20.4 |
@@ -1090,7 +1090,7 @@ Notes:
 
 Every manager-to-team link has a source. **Documented**: a Yahoo profile, the 2012 RTSports rosters, or a commissioner note checked against Yahoo. **Corroborated**: the league's answer plus independent support (same team name or logo in a documented season, or process of elimination). **Recalled**: the league's answer alone.
 
-Documented 128, corroborated 27, recalled 78, unknown 5 team-seasons.
+Documented 128, corroborated 26, recalled 78, unknown 6 team-seasons.
 
 ### How much each career depends on recalled links
 
@@ -1109,7 +1109,7 @@ Record and titles counting every link, then only documented and corroborated lin
 | Matty M. | 12 | 2 | 6 | 133-132 | 0 | 100-81 | 0 | 83-72 | 0 |
 | Mark T. | 13 | 2 | 6 | 112-167 | 2 | 76-119 | 1 | 61-108 | 0 |
 | Marcus H. | 12 | 4 | 5 | 137-143 | 3 | 104-104 | 3 | 76-79 | 2 |
-| Michael M. | 12 | 3 | 3 | 143-93 | 4 | 119-76 | 4 | 97-58 | 4 |
+| Michael M. | 12 | 2 | 3 | 136-86 | 4 | 112-69 | 4 | 97-58 | 4 |
 | Pat F. | 13 | 2 | 3 | 120-115-1 | 0 | 97-98 | 0 | 79-90 | 0 |
 | Brad C. | 12 | 7 | 2 | 152-128 | 3 | 140-113 | 3 | 89-66 | 1 |
 

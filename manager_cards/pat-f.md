@@ -2,7 +2,7 @@
 
 Seasons: 2009 to 2026 (18 seasons, including 2026 in progress).
 
-Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
+Note: 6 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
 
 ## Career totals
 
@@ -55,7 +55,7 @@ Regular-season and playoff games.
 |---|---|---|---|---|
 | Erik P. | 29 | 18-11 | 3,274.94 | 3,131.64 |
 | Matty M. | 28 | 11-17 | 3,077.34 | 3,195.44 |
-| Michael M. | 27 | 15-12 | 3,061.36 | 2,879.9 |
+| Robert H. | 27 | 14-13 | 2,866.2 | 3,056.1 |
 
 - **Owns:** Mike L., 9-2 (.818)
 - **Nemesis:** Brad C., 7-15 (.318)
@@ -73,7 +73,7 @@ Regular-season and playoff games.
 | Marcus H. | 11-11 | .500 | 0 |
 | Mark T. | 11-13 | .458 | 2 |
 | Matty M. | 11-17 | .393 | 1 |
-| Michael M. | 15-12 | .556 | 3 |
+| Michael M. | 15-11 | .577 | 3 |
 | Mike L. | 9-2 | .818 | 1 |
 | Robert H. | 14-13 | .519 | 0 |
 

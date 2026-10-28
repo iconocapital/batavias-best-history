@@ -2,7 +2,7 @@
 
 Seasons: 2005 to 2026 (21 seasons, including 2026 in progress).
 
-Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
+Note: 6 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
 
 ## Career totals
 
@@ -59,7 +59,7 @@ Regular-season and playoff games.
 | Robert H. | 30 | 12-18 | 3,080.06 | 3,093.96 |
 
 - **Owns:** Pat F., 13-11 (.542)
-- **Nemesis:** Michael M., 7-22 (.241)
+- **Nemesis:** Michael M., 6-21 (.222)
 
 ### Full head-to-head
 
@@ -74,7 +74,7 @@ Regular-season and playoff games.
 | Kevin F. | 1-5 | .167 | 0 |
 | Marcus H. | 10-17 | .370 | 0 |
 | Matty M. | 13-17 | .433 | 0 |
-| Michael M. | 7-22 | .241 | 2 |
+| Michael M. | 6-21 | .222 | 2 |
 | Mike L. | 6-9 | .400 | 0 |
 | Pat F. | 13-11 | .542 | 2 |
 | Robert H. | 12-18 | .400 | 1 |

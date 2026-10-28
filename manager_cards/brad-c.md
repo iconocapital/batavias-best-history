@@ -2,7 +2,7 @@
 
 Seasons: 2006 to 2026 (21 seasons, including 2026 in progress).
 
-Note: 5 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
+Note: 6 team-seasons from 2005-2010 still have no confirmed manager. Any of them that belong to this manager are not counted here.
 
 ## Career totals
 
@@ -56,10 +56,10 @@ Regular-season and playoff games.
 |---|---|---|---|---|
 | Chris H. | 34 | 15-19 | 3,689.06 | 3,723.52 |
 | Erik P. | 33 | 13-20 | 3,713.44 | 3,901.32 |
-| Michael M. | 31 | 11-20 | 3,486.7 | 3,756.36 |
+| Ben H. | 30 | 18-12 | 3,225.78 | 3,248.24 |
 
 - **Owns:** Pat F., 15-7 (.682)
-- **Nemesis:** Michael M., 11-20 (.355)
+- **Nemesis:** Michael M., 11-19 (.367)
 
 ### Full head-to-head
 
@@ -74,7 +74,7 @@ Regular-season and playoff games.
 | Marcus H. | 19-10 | .655 | 1 |
 | Mark T. | 18-9 | .667 | 1 |
 | Matty M. | 18-12 | .600 | 1 |
-| Michael M. | 11-20 | .355 | 5 |
+| Michael M. | 11-19 | .367 | 5 |
 | Mike L. | 8-8 | .500 | 0 |
 | Pat F. | 15-7 | .682 | 1 |
 | Robert H. | 18-10 | .643 | 1 |
